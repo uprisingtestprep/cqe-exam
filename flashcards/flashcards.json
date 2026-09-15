@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "management_and_leadership",
+    "front": "What is Deming's core philosophy on the cause of most quality problems in an organization?",
+    "back": "Deming taught that about 94% of quality problems come from the system itself (common causes controlled by management), not from individual workers, so management bears primary responsibility for improvement."
+  },
+  {
+    "id": 2,
+    "domain": "management_and_leadership",
+    "front": "State Deming's Point 1 of the 14 Points for Management.",
+    "back": "Create constancy of purpose toward improvement of product and service, with the aim of becoming competitive, staying in business, and providing jobs."
+  },
+  {
+    "id": 3,
+    "domain": "management_and_leadership",
+    "front": "Why did Deming call for eliminating slogans, exhortations, and targets for the workforce (Point 10)?",
+    "back": "Because such slogans push workers to try harder without giving them improved methods or tools, and most problems belong to the system, which workers cannot control."
+  },
+  {
+    "id": 4,
+    "domain": "management_and_leadership",
+    "front": "What does Deming's Point 8, 'Drive out fear,' aim to achieve?",
+    "back": "It aims to create an environment where employees feel secure enough to ask questions, report problems, and suggest improvements without fear of punishment or job loss."
+  },
+  {
+    "id": 5,
+    "domain": "management_and_leadership",
+    "front": "According to Deming's Point 3, why should an organization cease dependence on mass inspection?",
+    "back": "Because inspection to find defects after the fact is costly and unreliable; quality should be built into the process from the start instead of relying on inspecting it in later."
+  },
+  {
+    "id": 6,
+    "domain": "management_and_leadership",
+    "front": "What did Deming mean by 'adopt the new philosophy' in Point 2?",
+    "back": "Management must reject a tolerance for delays, mistakes, defective materials, and defective workmanship as a way of doing business, and lead a transformation toward quality."
+  },
+  {
+    "id": 7,
+    "domain": "management_and_leadership",
+    "front": "What is the purpose of strategic planning within a quality management system (QMS)?",
+    "back": "Strategic planning aligns the organization's quality objectives, resources, and improvement priorities with its overall mission and long-term business goals."
+  },
+  {
+    "id": 8,
+    "domain": "management_and_leadership",
+    "front": "What is a SWOT analysis used for in QMS strategic planning?",
+    "back": "It identifies an organization's internal Strengths and Weaknesses along with external Opportunities and Threats to inform strategic quality decisions."
+  },
+  {
+    "id": 9,
+    "domain": "management_and_leadership",
+    "front": "What is a policy deployment (hoshin kanri) process used for?",
+    "back": "It translates top-level strategic quality goals into specific, measurable objectives and action plans that cascade down through every level of the organization."
+  },
+  {
+    "id": 10,
+    "domain": "management_and_leadership",
+    "front": "Define benchmarking in a quality management context.",
+    "back": "Benchmarking is the systematic process of comparing an organization's products, processes, or practices against those of recognized industry leaders to identify improvement opportunities."
+  },
+  {
+    "id": 11,
+    "domain": "management_and_leadership",
+    "front": "What is the difference between competitive benchmarking and functional benchmarking?",
+    "back": "Competitive benchmarking compares performance against direct competitors in the same industry, while functional benchmarking compares a specific process against best-in-class organizations regardless of industry."
+  },
+  {
+    "id": 12,
+    "domain": "management_and_leadership",
+    "front": "What is internal benchmarking?",
+    "back": "Internal benchmarking compares similar processes or practices across different departments, sites, or divisions within the same organization to identify and share best practices."
+  },
+  {
+    "id": 13,
+    "domain": "management_and_leadership",
+    "front": "List the typical steps of a benchmarking process in order.",
+    "back": "Plan (select what to benchmark and identify partners), collect data, analyze the gap, integrate findings into goals, act to implement changes, and review results."
+  },
+  {
+    "id": 14,
+    "domain": "management_and_leadership",
+    "front": "What is a stakeholder analysis and why is it performed?",
+    "back": "A stakeholder analysis identifies all individuals or groups affected by or able to affect a project or decision, and assesses their interests, influence, and expectations to guide engagement strategy."
+  },
+  {
+    "id": 15,
+    "domain": "management_and_leadership",
+    "front": "In stakeholder analysis, what does a power/interest grid help a project manager decide?",
+    "back": "It helps determine the appropriate level of engagement for each stakeholder: those with high power and high interest are managed closely, while those with low power and low interest need only minimal monitoring."
+  },
+  {
+    "id": 16,
+    "domain": "management_and_leadership",
+    "front": "What is the main purpose of a cost-benefit analysis in a quality improvement decision?",
+    "back": "It compares the expected costs of an action against its expected benefits, expressed in comparable terms, to determine whether the improvement is financially justified."
+  },
+  {
+    "id": 17,
+    "domain": "management_and_leadership",
+    "front": "What are the four categories of cost of quality (COQ)?",
+    "back": "Prevention costs, appraisal costs, internal failure costs, and external failure costs."
+  },
+  {
+    "id": 18,
+    "domain": "management_and_leadership",
+    "front": "Give an example each of a prevention cost and an appraisal cost.",
+    "back": "Prevention cost example: quality planning and training. Appraisal cost example: inspection and testing of incoming materials."
+  },
+  {
+    "id": 19,
+    "domain": "management_and_leadership",
+    "front": "Why are external failure costs generally considered the most damaging category of cost of quality?",
+    "back": "Because they occur after the product reaches the customer and can include warranty claims, returns, and lost customer goodwill, which harm reputation and future sales beyond the direct dollar cost."
+  },
+  {
+    "id": 20,
+    "domain": "management_and_leadership",
+    "front": "What does a RACI matrix stand for?",
+    "back": "Responsible, Accountable, Consulted, and Informed; it clarifies roles and responsibilities for tasks or decisions within a project."
+  },
+  {
+    "id": 21,
+    "domain": "management_and_leadership",
+    "front": "In a RACI matrix, how many people should ideally be assigned as Accountable for a single task, and why?",
+    "back": "Exactly one person should be Accountable for each task, to avoid confusion over ownership and ensure clear decision-making authority."
+  },
+  {
+    "id": 22,
+    "domain": "management_and_leadership",
+    "front": "What is the difference between the 'Responsible' and 'Accountable' roles in a RACI matrix?",
+    "back": "Responsible refers to the person or people who actually perform the work, while Accountable refers to the person who owns the outcome and is answerable for it, even if others do the work."
+  },
+  {
+    "id": 23,
+    "domain": "management_and_leadership",
+    "front": "What is a Gantt chart used for in project management?",
+    "back": "A Gantt chart is a horizontal bar chart that displays project tasks against a timeline, showing start and end dates, task duration, and overlap between activities."
+  },
+  {
+    "id": 24,
+    "domain": "management_and_leadership",
+    "front": "What does the critical path represent on a project schedule?",
+    "back": "The critical path is the longest sequence of dependent tasks that determines the minimum possible project duration; any delay on the critical path delays the entire project."
+  },
+  {
+    "id": 25,
+    "domain": "management_and_leadership",
+    "front": "What is float (slack) in project scheduling?",
+    "back": "Float is the amount of time a task can be delayed without affecting the completion date of the overall project; tasks on the critical path have zero float."
+  },
+  {
+    "id": 26,
+    "domain": "management_and_leadership",
+    "front": "What is the primary function of a quality information system (QIS)?",
+    "back": "A QIS collects, stores, analyzes, and reports quality-related data to support decision-making, trend monitoring, and continuous improvement across the organization."
+  },
+  {
+    "id": 27,
+    "domain": "management_and_leadership",
+    "front": "What is a key benefit of integrating a quality information system with other enterprise systems (such as ERP)?",
+    "back": "It allows quality data to be shared in real time with production, procurement, and management functions, reducing duplication and enabling faster, data-driven decisions."
+  },
+  {
+    "id": 28,
+    "domain": "management_and_leadership",
+    "front": "What is the purpose of the ASQ Code of Ethics?",
+    "back": "It establishes principles guiding the professional conduct of ASQ members, including honesty, integrity, avoiding conflicts of interest, and protecting public health and safety."
+  },
+  {
+    "id": 29,
+    "domain": "management_and_leadership",
+    "front": "Under the ASQ Code of Ethics, what should a quality professional do if they discover a safety hazard affecting the public?",
+    "back": "They must act to protect the safety and health of the public, which includes disclosing the hazard through appropriate channels even if it conflicts with employer interests."
+  },
+  {
+    "id": 30,
+    "domain": "management_and_leadership",
+    "front": "According to the ASQ Code of Ethics, how should a member handle confidential business information?",
+    "back": "Members must not disclose confidential information without proper authority and must avoid using it for personal gain or to harm others."
+  },
+  {
+    "id": 31,
+    "domain": "management_and_leadership",
+    "front": "What is the difference between a leader and a manager in the context of quality leadership principles?",
+    "back": "A manager focuses on planning, organizing, and controlling processes to meet objectives, while a leader focuses on inspiring, motivating, and guiding people toward a shared vision."
+  },
+  {
+    "id": 32,
+    "domain": "management_and_leadership",
+    "front": "What is transformational leadership?",
+    "back": "A leadership style in which the leader inspires and motivates followers to exceed expectations by creating a compelling vision and fostering personal growth, often driving significant organizational change."
+  },
+  {
+    "id": 33,
+    "domain": "management_and_leadership",
+    "front": "What is servant leadership?",
+    "back": "A leadership philosophy in which the leader's primary focus is serving the needs of the team and organization first, prioritizing employee development and well-being to achieve results."
+  },
+  {
+    "id": 34,
+    "domain": "management_and_leadership",
+    "front": "What is brainstorming used for as a facilitation tool?",
+    "back": "Brainstorming is a group technique used to generate a large number of ideas quickly on a given topic without judgment or criticism during the idea-generation phase."
+  },
+  {
+    "id": 35,
+    "domain": "management_and_leadership",
+    "front": "Describe the basic steps of the Nominal Group Technique (NGT).",
+    "back": "Each participant silently writes ideas, ideas are shared and recorded round-robin without discussion, ideas are clarified and discussed as a group, and then participants vote or rank to reach a prioritized consensus."
+  },
+  {
+    "id": 36,
+    "domain": "management_and_leadership",
+    "front": "How does the Nominal Group Technique differ from open brainstorming?",
+    "back": "NGT structures idea generation individually and silently before sharing, which reduces the influence of dominant personalities and produces a ranked, prioritized list, unlike the free-flowing discussion of open brainstorming."
+  },
+  {
+    "id": 37,
+    "domain": "management_and_leadership",
+    "front": "What is the goal of a force-field analysis?",
+    "back": "It identifies and weighs the driving forces that support a change against the restraining forces that oppose it, to help plan how to strengthen drivers or reduce resistance."
+  },
+  {
+    "id": 38,
+    "domain": "management_and_leadership",
+    "front": "In a force-field analysis diagram, on which side are driving forces typically placed relative to restraining forces?",
+    "back": "Driving forces are typically listed on the left side pushing toward the desired change, and restraining forces are listed on the right side pushing against it."
+  },
+  {
+    "id": 39,
+    "domain": "management_and_leadership",
+    "front": "What is the collaborating (problem-solving) approach to conflict resolution?",
+    "back": "It seeks a win-win outcome by openly addressing the concerns of all parties and working together to find a solution that fully satisfies everyone's underlying interests."
+  },
+  {
+    "id": 40,
+    "domain": "management_and_leadership",
+    "front": "What is the compromising approach to conflict resolution, and what is its main limitation?",
+    "back": "Compromising involves each party giving up something to reach a mutually acceptable middle-ground solution; its limitation is that no party gets everything they wanted, which can leave underlying issues unresolved."
+  },
+  {
+    "id": 41,
+    "domain": "management_and_leadership",
+    "front": "When is the avoiding conflict resolution style appropriate to use?",
+    "back": "It is appropriate when the issue is trivial, more information is needed before acting, or when the cost of confrontation outweighs the benefit of resolving the issue immediately."
+  },
+  {
+    "id": 42,
+    "domain": "management_and_leadership",
+    "front": "Why is active listening considered an essential communication skill for a quality engineer?",
+    "back": "Active listening ensures the quality engineer fully understands stakeholder concerns, root causes, and requirements before responding, reducing misunderstandings and improving problem-solving accuracy."
+  },
+  {
+    "id": 43,
+    "domain": "management_and_leadership",
+    "front": "What is the difference between formal and informal communication channels in an organization?",
+    "back": "Formal channels follow the official organizational structure, such as reports and scheduled meetings, while informal channels are unofficial, such as casual conversations, that can spread information faster but less reliably."
+  },
+  {
+    "id": 44,
+    "domain": "management_and_leadership",
+    "front": "What is the purpose of a customer satisfaction survey in customer relations management?",
+    "back": "It systematically gathers customer feedback on product or service performance to identify gaps between expectations and delivery, guiding quality improvement priorities."
+  },
+  {
+    "id": 45,
+    "domain": "management_and_leadership",
+    "front": "What is the Kano model used for in understanding customer requirements?",
+    "back": "The Kano model classifies product features into categories such as basic (must-be), performance, and delighter (excitement) attributes to help prioritize which features most affect customer satisfaction."
+  },
+  {
+    "id": 46,
+    "domain": "management_and_leadership",
+    "front": "In the Kano model, what happens to customer satisfaction when a 'must-be' (basic) attribute is missing?",
+    "back": "Customer satisfaction drops sharply and customers become highly dissatisfied, since must-be attributes are expected as a baseline and their absence is unacceptable, even though their presence does not increase satisfaction much."
+  },
+  {
+    "id": 47,
+    "domain": "management_and_leadership",
+    "front": "Why is supplier management important to an organization's overall quality performance?",
+    "back": "Because incoming material and component quality directly affects the quality of the final product, supplier management ensures suppliers consistently meet specifications, reducing defects and supply chain risk."
+  },
+  {
+    "id": 48,
+    "domain": "management_and_leadership",
+    "front": "What is a supplier scorecard used for?",
+    "back": "A supplier scorecard tracks and rates supplier performance across metrics such as quality, delivery, cost, and responsiveness to support supplier selection and improvement decisions."
+  },
+  {
+    "id": 49,
+    "domain": "management_and_leadership",
+    "front": "What is the purpose of a supplier quality audit?",
+    "back": "It verifies that a supplier's processes, systems, and controls meet the purchasing organization's quality requirements before or during an ongoing business relationship."
+  },
+  {
+    "id": 50,
+    "domain": "management_and_leadership",
+    "front": "What is business continuity planning (BCP)?",
+    "back": "BCP is the process of creating systems and procedures to ensure an organization can continue critical operations or quickly recover them during and after a disruptive event."
+  },
+  {
+    "id": 51,
+    "domain": "management_and_leadership",
+    "front": "What is a business impact analysis (BIA) and how does it relate to business continuity planning?",
+    "back": "A BIA identifies and evaluates the potential effects of a disruption on critical business functions, and its results are used to prioritize resources and recovery strategies within the business continuity plan."
+  },
+  {
+    "id": 52,
+    "domain": "management_and_leadership",
+    "front": "What is meant by 'lack of management commitment' as a barrier to quality improvement?",
+    "back": "It refers to a situation where leadership does not visibly support, resource, or reinforce quality initiatives, causing improvement efforts to stall or fail regardless of employee effort."
+  },
+  {
+    "id": 53,
+    "domain": "management_and_leadership",
+    "front": "How does organizational culture act as a barrier to quality improvement?",
+    "back": "A culture resistant to change, that tolerates rework as normal, or that discourages raising problems can prevent quality initiatives from taking root even when good tools and training are available."
+  },
+  {
+    "id": 54,
+    "domain": "management_and_leadership",
+    "front": "Why is insufficient training considered a common barrier to successful quality improvement efforts?",
+    "back": "Without adequate training, employees lack the skills and understanding needed to correctly apply quality tools and methods, leading to inconsistent implementation and eventual abandonment of the initiative."
+  },
+  {
+    "id": 55,
+    "domain": "management_and_leadership",
+    "front": "What is 'silo mentality' and why does it hinder quality improvement?",
+    "back": "Silo mentality occurs when departments focus narrowly on their own goals and fail to share information or collaborate across functions, which blocks cross-functional root cause analysis and system-wide improvement."
+  },
+  {
+    "id": 56,
+    "domain": "the_quality_system",
+    "front": "What are the basic elements every quality system must have to function effectively?",
+    "back": "A defined organizational structure with clear responsibilities, documented policies and procedures, trained personnel, adequate resources, and a mechanism for measuring, reviewing, and improving performance."
+  },
+  {
+    "id": 57,
+    "domain": "the_quality_system",
+    "front": "Why must a quality system be aligned with the organization's strategic plan rather than operated as a standalone function?",
+    "back": "Alignment ensures quality objectives directly support business goals such as customer satisfaction, market growth, and profitability, so quality activities are seen as adding value rather than as a separate compliance burden."
+  },
+  {
+    "id": 58,
+    "domain": "the_quality_system",
+    "front": "What is policy deployment (also called hoshin kanri) in the context of a quality system?",
+    "back": "A structured method for translating an organization's top-level strategic goals into specific, measurable objectives and action plans at every level of the organization, with regular review of progress."
+  },
+  {
+    "id": 59,
+    "domain": "the_quality_system",
+    "front": "What is the primary purpose of a quality manual?",
+    "back": "To describe the scope of the quality management system, document or reference its procedures, and describe the interaction between the processes of the quality management system."
+  },
+  {
+    "id": 60,
+    "domain": "the_quality_system",
+    "front": "In a typical documentation hierarchy, what sits below the quality manual and above work instructions?",
+    "back": "Procedures, which describe how activities within a process are carried out, including who does what and in what sequence."
+  },
+  {
+    "id": 61,
+    "domain": "the_quality_system",
+    "front": "What is the difference between a procedure and a work instruction?",
+    "back": "A procedure describes the overall process at a departmental or cross-functional level, while a work instruction gives detailed, step-by-step directions for performing a specific task, usually at a single workstation."
+  },
+  {
+    "id": 62,
+    "domain": "the_quality_system",
+    "front": "What is document control?",
+    "back": "The system of processes used to create, review, approve, distribute, revise, and obsolete documents so that only current, approved versions are used at points of use."
+  },
+  {
+    "id": 63,
+    "domain": "the_quality_system",
+    "front": "What key requirement must a document control system satisfy regarding obsolete documents?",
+    "back": "Obsolete documents must be promptly removed from all points of use or otherwise identified to prevent unintended use, and retained copies must be clearly marked as obsolete."
+  },
+  {
+    "id": 64,
+    "domain": "the_quality_system",
+    "front": "What is the difference between a document and a record in a quality system?",
+    "back": "A document specifies requirements or provides instructions (it can be revised), while a record provides objective evidence that an activity was performed or a result was achieved (it is not revised, only retained)."
+  },
+  {
+    "id": 65,
+    "domain": "the_quality_system",
+    "front": "What information should a document revision history typically capture?",
+    "back": "The revision number or letter, the date of the change, a description of what changed, and the identity of the person who approved the revision."
+  },
+  {
+    "id": 66,
+    "domain": "the_quality_system",
+    "front": "What is the ISO 9000 series of standards?",
+    "back": "A family of international standards for quality management systems published by the International Organization for Standardization, covering fundamentals and vocabulary, requirements, and guidance for performance improvement."
+  },
+  {
+    "id": 67,
+    "domain": "the_quality_system",
+    "front": "What does ISO 9000 (as opposed to ISO 9001) specifically cover?",
+    "back": "ISO 9000 covers the fundamental concepts and principles of quality management and defines the vocabulary and terms used throughout the ISO 9000 family of standards."
+  },
+  {
+    "id": 68,
+    "domain": "the_quality_system",
+    "front": "What does ISO 9001 specifically cover?",
+    "back": "ISO 9001 specifies the requirements for a quality management system that an organization can use to demonstrate its ability to consistently provide products and services that meet customer and regulatory requirements; it is the only standard in the family that organizations can be certified to."
+  },
+  {
+    "id": 69,
+    "domain": "the_quality_system",
+    "front": "What does ISO 9004 specifically cover?",
+    "back": "ISO 9004 provides guidance for organizations that choose to go beyond the requirements of ISO 9001 to pursue sustained success through a quality management approach; it is a guidance document, not a certifiable requirements standard."
+  },
+  {
+    "id": 70,
+    "domain": "the_quality_system",
+    "front": "Can an organization become certified to ISO 9004?",
+    "back": "No. ISO 9004 is a guidance standard for organizational improvement, not a set of certifiable requirements; only ISO 9001 is used as the basis for third-party certification."
+  },
+  {
+    "id": 71,
+    "domain": "the_quality_system",
+    "front": "What is the process approach as described in the ISO 9000 series?",
+    "back": "Managing an organization as a set of interrelated processes, understanding how inputs are transformed into outputs, and managing the interactions between processes to achieve consistent, predictable results."
+  },
+  {
+    "id": 72,
+    "domain": "the_quality_system",
+    "front": "What is the plan-do-check-act (PDCA) cycle's role within ISO 9001's structure?",
+    "back": "PDCA is applied to all processes and to the quality management system as a whole: Plan establishes objectives, Do implements them, Check monitors and measures results against objectives, and Act takes actions to improve performance."
+  },
+  {
+    "id": 73,
+    "domain": "the_quality_system",
+    "front": "What is risk-based thinking, and how is it incorporated into ISO 9001:2015?",
+    "back": "Risk-based thinking means considering risk throughout the planning and operation of processes, addressing risks and opportunities to prevent or reduce undesired effects and to achieve improvement; it replaced the standalone preventive action clause of earlier revisions."
+  },
+  {
+    "id": 74,
+    "domain": "the_quality_system",
+    "front": "What are the seven quality management principles underlying the ISO 9000 series?",
+    "back": "Customer focus, leadership, engagement of people, process approach, improvement, evidence-based decision making, and relationship management."
+  },
+  {
+    "id": 75,
+    "domain": "the_quality_system",
+    "front": "What is the Malcolm Baldrige National Quality Award?",
+    "back": "A U.S. presidential award established in 1987 that recognizes organizations for performance excellence, evaluated against a framework of criteria rather than a certifiable pass/fail standard."
+  },
+  {
+    "id": 76,
+    "domain": "the_quality_system",
+    "front": "How many categories make up the Baldrige Criteria for Performance Excellence framework?",
+    "back": "Seven categories: Leadership, Strategy, Customers, Measurement Analysis and Knowledge Management, Workforce, Operations, and Results."
+  },
+  {
+    "id": 77,
+    "domain": "the_quality_system",
+    "front": "Which Baldrige category carries the greatest point weight in scoring?",
+    "back": "The Results category, which evaluates an organization's performance and improvement in its key business areas and typically carries the largest share of total available points."
+  },
+  {
+    "id": 78,
+    "domain": "the_quality_system",
+    "front": "How does the Baldrige framework differ fundamentally from ISO 9001?",
+    "back": "Baldrige is a self-assessment and award framework focused on organizational performance excellence and results across all business areas, while ISO 9001 is a certifiable requirements standard focused specifically on quality management system conformance."
+  },
+  {
+    "id": 79,
+    "domain": "the_quality_system",
+    "front": "What is a quality audit?",
+    "back": "A systematic, independent, and documented process for obtaining audit evidence and evaluating it objectively to determine the extent to which audit criteria are fulfilled."
+  },
+  {
+    "id": 80,
+    "domain": "the_quality_system",
+    "front": "What is a product audit?",
+    "back": "An audit that examines a specific product or service to verify that it conforms to specified requirements such as specifications, drawings, or customer purchase order requirements."
+  },
+  {
+    "id": 81,
+    "domain": "the_quality_system",
+    "front": "What is a process audit?",
+    "back": "An audit that verifies that a process is being carried out within specified limits, using the correct methods, equipment, and materials, and is capable of producing conforming output."
+  },
+  {
+    "id": 82,
+    "domain": "the_quality_system",
+    "front": "What is a management system audit (system audit)?",
+    "back": "A comprehensive audit that evaluates an entire management system, or a significant part of it, to verify that it conforms to a defined standard and is being effectively implemented and maintained."
+  },
+  {
+    "id": 83,
+    "domain": "the_quality_system",
+    "front": "What is a registration audit (certification audit)?",
+    "back": "An external audit conducted by an accredited third-party registrar to determine whether an organization's quality management system meets the requirements of a standard such as ISO 9001, resulting in issuance or renewal of certification."
+  },
+  {
+    "id": 84,
+    "domain": "the_quality_system",
+    "front": "What is a compliance audit?",
+    "back": "An audit conducted to determine whether an organization is adhering to applicable laws, regulations, contractual requirements, or internal policies and procedures."
+  },
+  {
+    "id": 85,
+    "domain": "the_quality_system",
+    "front": "What is a first-party audit?",
+    "back": "An internal audit conducted by an organization, or on its behalf, on its own quality management system for internal purposes such as management review or self-declaration."
+  },
+  {
+    "id": 86,
+    "domain": "the_quality_system",
+    "front": "What is a second-party audit?",
+    "back": "An external audit conducted by a customer on a supplier, or by an organization on its own behalf on an external party such as a supplier, to establish confidence that requirements will be met."
+  },
+  {
+    "id": 87,
+    "domain": "the_quality_system",
+    "front": "What is a third-party audit?",
+    "back": "An external audit conducted by an independent auditing organization, such as an accredited registrar, that has no vested interest in the outcome, typically for certification or regulatory purposes."
+  },
+  {
+    "id": 88,
+    "domain": "the_quality_system",
+    "front": "Why is auditor independence important in a third-party audit?",
+    "back": "Independence ensures the audit findings are objective and unbiased, giving external stakeholders confidence in the credibility of the certification or compliance determination."
+  },
+  {
+    "id": 89,
+    "domain": "the_quality_system",
+    "front": "What is the role of the lead auditor on an audit team?",
+    "back": "The lead auditor manages the overall audit process, coordinates the audit team, communicates with the auditee's management, resolves conflicts or issues during the audit, and is responsible for the final audit report."
+  },
+  {
+    "id": 90,
+    "domain": "the_quality_system",
+    "front": "What is the role of an audit client?",
+    "back": "The organization or person that requests the audit, which may be the auditee itself, a customer, a regulatory body, or another interested party."
+  },
+  {
+    "id": 91,
+    "domain": "the_quality_system",
+    "front": "What is the role of the auditee in a quality audit?",
+    "back": "The organization, or part of an organization, being audited, responsible for providing access, resources, and information needed for the audit and for addressing any findings afterward."
+  },
+  {
+    "id": 92,
+    "domain": "the_quality_system",
+    "front": "What is an audit guide (escort)?",
+    "back": "A person assigned by the auditee to accompany the audit team, providing access to areas, arranging interviews, and ensuring health and safety, but who does not participate in evaluating conformance."
+  },
+  {
+    "id": 93,
+    "domain": "the_quality_system",
+    "front": "What are the typical stages of the audit planning process?",
+    "back": "Defining audit objectives and scope, selecting the audit team, reviewing prior audit results and documentation, developing an audit plan and checklist, and notifying the auditee of the schedule."
+  },
+  {
+    "id": 94,
+    "domain": "the_quality_system",
+    "front": "What should an audit plan typically specify?",
+    "back": "The audit objectives, scope, criteria, dates and locations, the audit team and their roles, the areas or processes to be audited, and the logistics such as the opening and closing meeting times."
+  },
+  {
+    "id": 95,
+    "domain": "the_quality_system",
+    "front": "What is the purpose of an opening meeting in an audit?",
+    "back": "To confirm the audit plan and scope with the auditee's management, introduce the audit team, review the audit methods, and confirm communication channels and logistics before fieldwork begins."
+  },
+  {
+    "id": 96,
+    "domain": "the_quality_system",
+    "front": "What is the purpose of a closing meeting in an audit?",
+    "back": "To present the audit findings, including nonconformances and observations, to the auditee's management, clarify any misunderstandings, and explain the follow-up process before the final report is issued."
+  },
+  {
+    "id": 97,
+    "domain": "the_quality_system",
+    "front": "What is the difference between a major nonconformance and a minor nonconformance in an audit?",
+    "back": "A major nonconformance represents a significant failure of the quality management system to meet requirements, such as a missing required process or a systemic breakdown, while a minor nonconformance is an isolated lapse that does not indicate a breakdown of the overall system."
+  },
+  {
+    "id": 98,
+    "domain": "the_quality_system",
+    "front": "What is an audit observation?",
+    "back": "A statement of fact noted during an audit that does not rise to the level of a nonconformance but may indicate a potential weakness or an opportunity for improvement."
+  },
+  {
+    "id": 99,
+    "domain": "the_quality_system",
+    "front": "What should an audit finding statement include to be objective and useful?",
+    "back": "A clear reference to the audit criterion, objective evidence observed, and a concise statement of the gap between the requirement and the observed condition."
+  },
+  {
+    "id": 100,
+    "domain": "the_quality_system",
+    "front": "What is the purpose of the audit report?",
+    "back": "To formally document the audit scope, criteria, methods, findings, conclusions, and any nonconformances so the auditee and audit client have a permanent, objective record of the audit results."
+  },
+  {
+    "id": 101,
+    "domain": "the_quality_system",
+    "front": "What is corrective action follow-up in the audit process?",
+    "back": "The step in which the auditor or audit program manager verifies that corrective actions taken by the auditee in response to nonconformances are effective and have addressed the root cause, often through a follow-up audit or documentation review."
+  },
+  {
+    "id": 102,
+    "domain": "the_quality_system",
+    "front": "Why is root cause analysis important when responding to an audit nonconformance?",
+    "back": "Correcting only the immediate symptom without addressing the underlying root cause allows the nonconformance to recur, so root cause analysis is needed to implement a corrective action that prevents recurrence."
+  },
+  {
+    "id": 103,
+    "domain": "the_quality_system",
+    "front": "What are the four categories of the Cost of Quality model?",
+    "back": "Prevention costs, appraisal costs, internal failure costs, and external failure costs."
+  },
+  {
+    "id": 104,
+    "domain": "the_quality_system",
+    "front": "What are prevention costs in the Cost of Quality model?",
+    "back": "Costs incurred to prevent defects from occurring in the first place, such as quality planning, training, process design, and supplier quality management."
+  },
+  {
+    "id": 105,
+    "domain": "the_quality_system",
+    "front": "What are appraisal costs in the Cost of Quality model?",
+    "back": "Costs incurred to measure, evaluate, or audit products, processes, or services to ensure conformance to quality standards, such as inspection, testing, and calibration."
+  },
+  {
+    "id": 106,
+    "domain": "the_quality_system",
+    "front": "What are internal failure costs in the Cost of Quality model?",
+    "back": "Costs resulting from defects found before the product or service reaches the customer, such as scrap, rework, re-inspection, and downtime caused by defects."
+  },
+  {
+    "id": 107,
+    "domain": "the_quality_system",
+    "front": "What are external failure costs in the Cost of Quality model?",
+    "back": "Costs resulting from defects found after the product or service reaches the customer, such as warranty claims, returns, complaint handling, product recalls, and loss of customer goodwill."
+  },
+  {
+    "id": 108,
+    "domain": "the_quality_system",
+    "front": "Why do external failure costs generally represent the most expensive category of the Cost of Quality model?",
+    "back": "Because a defect discovered after delivery to the customer often triggers costs of returns, warranty, recalls, legal liability, and lost future business, in addition to the cost of the defect itself, making it far more expensive than catching the same defect internally."
+  },
+  {
+    "id": 109,
+    "domain": "the_quality_system",
+    "front": "What is the general relationship the Cost of Quality model suggests between prevention spending and total quality costs?",
+    "back": "Increased investment in prevention activities tends to reduce appraisal, internal failure, and external failure costs by a greater amount, lowering the total cost of quality overall."
+  },
+  {
+    "id": 110,
+    "domain": "the_quality_system",
+    "front": "What steps make up a training needs analysis for quality personnel?",
+    "back": "Identifying required competencies for a role, assessing current employee knowledge and skill gaps against those competencies, and determining what training is needed to close the gaps; effectiveness is then evaluated afterward through methods such as testing, on-the-job observation, or performance metrics."
+  },
+  {
+    "id": 111,
+    "domain": "product_process_and_service_design",
+    "front": "In classification of quality characteristics, what is a critical characteristic?",
+    "back": "A characteristic whose failure could result in injury, hazard, or noncompliance with a regulation; critical characteristics require the tightest control and 100% inspection or process control."
+  },
+  {
+    "id": 112,
+    "domain": "product_process_and_service_design",
+    "front": "What is a major characteristic in quality characteristic classification?",
+    "back": "A characteristic that, if nonconforming, is likely to result in product failure or significantly reduce usability, but does not create a safety hazard; it requires close control but less stringent than a critical characteristic."
+  },
+  {
+    "id": 113,
+    "domain": "product_process_and_service_design",
+    "front": "What is a minor characteristic in quality characteristic classification?",
+    "back": "A characteristic that departs from standard but has little or no effect on product function, use, or safety, such as a cosmetic blemish."
+  },
+  {
+    "id": 114,
+    "domain": "product_process_and_service_design",
+    "front": "How do customer needs (voice of the customer) function as a design input?",
+    "back": "Customer needs are translated into measurable technical requirements early in design so the product's functions and specifications directly reflect what the customer values and expects."
+  },
+  {
+    "id": 115,
+    "domain": "product_process_and_service_design",
+    "front": "How do regulatory requirements function as a design input?",
+    "back": "Regulatory and statutory requirements, such as safety, environmental, and industry codes, must be identified and treated as mandatory design inputs so the finished design is legally compliant before development proceeds."
+  },
+  {
+    "id": 116,
+    "domain": "product_process_and_service_design",
+    "front": "What is a CTQ (critical to quality) characteristic and how is it used as a design input?",
+    "back": "A CTQ is a measurable product or process characteristic whose specification must be met to satisfy a customer requirement; CTQs are derived from customer needs and set the target values used in design and robust design work."
+  },
+  {
+    "id": 117,
+    "domain": "product_process_and_service_design",
+    "front": "How do identified risks feed into robust design and FMEA during development of design inputs?",
+    "back": "Known failure modes, environmental stresses, and use conditions identified during risk assessment are carried forward as design inputs, so robust design can select parameters insensitive to those stresses and FMEA can rank and address the resulting risks."
+  },
+  {
+    "id": 118,
+    "domain": "product_process_and_service_design",
+    "front": "What does DFX stand for in design for excellence?",
+    "back": "Design for X, where X represents a specific downstream objective such as manufacturability, assembly, reliability, serviceability, or cost, meaning the product is designed with that objective built in from the start."
+  },
+  {
+    "id": 119,
+    "domain": "product_process_and_service_design",
+    "front": "What is DFM (Design for Manufacturability)?",
+    "back": "A design practice that simplifies part geometry, reduces part count, and selects materials and processes so the product can be produced efficiently, consistently, and at lower cost."
+  },
+  {
+    "id": 120,
+    "domain": "product_process_and_service_design",
+    "front": "What is DFA (Design for Assembly)?",
+    "back": "A design practice that minimizes the number of parts and uses self-locating and self-fastening features to simplify assembly sequence, reducing assembly time, cost, and error."
+  },
+  {
+    "id": 121,
+    "domain": "product_process_and_service_design",
+    "front": "What is DFSS (Design for Six Sigma)?",
+    "back": "A structured methodology that applies Six Sigma tools during the design phase, before production begins, so quality and low variation are designed in rather than fixed after launch."
+  },
+  {
+    "id": 122,
+    "domain": "product_process_and_service_design",
+    "front": "What are the phases of the DMADV methodology used in DFSS?",
+    "back": "Define, Measure, Analyze, Design, and Verify; DMADV is used to design a new product or process to meet Six Sigma quality levels."
+  },
+  {
+    "id": 123,
+    "domain": "product_process_and_service_design",
+    "front": "What are the phases of the IDOV methodology used in DFSS?",
+    "back": "Identify, Design, Optimize, and Verify; IDOV is an alternative DFSS roadmap that identifies CTQs, develops concepts, optimizes the design, and verifies performance against requirements."
+  },
+  {
+    "id": 124,
+    "domain": "product_process_and_service_design",
+    "front": "What is requirements traceability in design?",
+    "back": "The ability to link each design requirement forward to the design elements, tests, and verification results that satisfy it, and backward from any design element to the requirement it fulfills."
+  },
+  {
+    "id": 125,
+    "domain": "product_process_and_service_design",
+    "front": "What is a requirements traceability matrix used for?",
+    "back": "A table that maps each customer or system requirement to its corresponding design output, verification method, and test result, ensuring no requirement is missed and supporting audits and change impact analysis."
+  },
+  {
+    "id": 126,
+    "domain": "product_process_and_service_design",
+    "front": "What is the primary purpose of a design review?",
+    "back": "A formal, documented, and systematic examination of a design by qualified personnel at defined stages, evaluating its capability to meet requirements, identifying problems, and authorizing progression to the next phase."
+  },
+  {
+    "id": 127,
+    "domain": "product_process_and_service_design",
+    "front": "Who typically participates in a cross-functional design review?",
+    "back": "Representatives from design engineering, quality, manufacturing, marketing or customer representation, reliability, purchasing, and service, so the design is evaluated from every functional perspective."
+  },
+  {
+    "id": 128,
+    "domain": "product_process_and_service_design",
+    "front": "What are common stages of design review across a product's development?",
+    "back": "Preliminary (concept) design review, critical (detailed) design review, and final design review, each held at a defined milestone before the design proceeds to the next phase."
+  },
+  {
+    "id": 129,
+    "domain": "product_process_and_service_design",
+    "front": "What information does a drawing title block typically contain?",
+    "back": "Part name and number, revision level, material, scale, tolerances not otherwise specified, drawn/checked/approved signatures and dates, and the sheet size and projection angle."
+  },
+  {
+    "id": 130,
+    "domain": "product_process_and_service_design",
+    "front": "What is tolerance stack-up analysis used for in technical drawings?",
+    "back": "Calculating the cumulative effect of individual part tolerances on an assembly's overall fit and function, confirming the assembly will work correctly across the full range of allowed variation."
+  },
+  {
+    "id": 131,
+    "domain": "product_process_and_service_design",
+    "front": "How does a specification differ from an engineering drawing?",
+    "back": "A drawing defines a part's geometry, dimensions, and tolerances visually, while a specification is a written document stating requirements such as material properties, performance, or test methods that may apply across many parts or drawings."
+  },
+  {
+    "id": 132,
+    "domain": "product_process_and_service_design",
+    "front": "What are the components of a GD&T feature control frame?",
+    "back": "A geometric characteristic symbol, a tolerance value (with a diameter symbol if applicable and any material condition modifier), and, where required, one or more datum reference letters in order of precedence."
+  },
+  {
+    "id": 133,
+    "domain": "product_process_and_service_design",
+    "front": "What is a datum in GD&T?",
+    "back": "A theoretically exact point, axis, line, or plane derived from a specified datum feature, used as an origin or reference from which the location or geometric characteristics of other features are measured."
+  },
+  {
+    "id": 134,
+    "domain": "product_process_and_service_design",
+    "front": "What does MMC (Maximum Material Condition) mean in GD&T?",
+    "back": "The condition of a feature where it contains the maximum amount of material within its size tolerance, such as the smallest hole diameter or the largest shaft diameter."
+  },
+  {
+    "id": 135,
+    "domain": "product_process_and_service_design",
+    "front": "What does LMC (Least Material Condition) mean in GD&T?",
+    "back": "The condition of a feature where it contains the least amount of material within its size tolerance, such as the largest hole diameter or the smallest shaft diameter."
+  },
+  {
+    "id": 136,
+    "domain": "product_process_and_service_design",
+    "front": "What is bonus tolerance in GD&T and when does it apply?",
+    "back": "Additional positional or geometric tolerance gained as a feature departs from its material condition modifier (MMC or LMC) toward the opposite limit of size; it applies only when an MMC or LMC modifier is specified in the feature control frame."
+  },
+  {
+    "id": 137,
+    "domain": "product_process_and_service_design",
+    "front": "What does the flatness symbol control in GD&T?",
+    "back": "Flatness controls how much a single surface may deviate from a perfect plane, requiring all points on the surface to lie between two parallel planes separated by the specified tolerance; it is a form control with no datum reference."
+  },
+  {
+    "id": 138,
+    "domain": "product_process_and_service_design",
+    "front": "What does the straightness symbol control in GD&T?",
+    "back": "Straightness controls how much a line element on a surface, or the derived median line of a feature of size, may deviate from a perfect straight line; it is a form control with no datum reference."
+  },
+  {
+    "id": 139,
+    "domain": "product_process_and_service_design",
+    "front": "What does the circularity (roundness) symbol control in GD&T?",
+    "back": "Circularity requires every circular cross-section of a round feature, taken perpendicular to its axis, to lie between two concentric circles separated by the specified tolerance, controlling roundness at each cross-section independently."
+  },
+  {
+    "id": 140,
+    "domain": "product_process_and_service_design",
+    "front": "What does the cylindricity symbol control in GD&T?",
+    "back": "Cylindricity is a composite form control requiring the entire cylindrical surface to lie between two coaxial cylinders separated by the specified tolerance, simultaneously controlling circularity, straightness, and taper of the surface."
+  },
+  {
+    "id": 141,
+    "domain": "product_process_and_service_design",
+    "front": "What does the perpendicularity symbol control in GD&T?",
+    "back": "Perpendicularity controls the orientation of a surface, axis, or line, holding it within a specified tolerance zone at exactly 90 degrees relative to a referenced datum."
+  },
+  {
+    "id": 142,
+    "domain": "product_process_and_service_design",
+    "front": "What does the parallelism symbol control in GD&T?",
+    "back": "Parallelism controls the orientation of a surface, axis, or line, holding it within a specified tolerance zone equidistant from a referenced datum, at zero degrees to that datum."
+  },
+  {
+    "id": 143,
+    "domain": "product_process_and_service_design",
+    "front": "What does the angularity symbol control in GD&T?",
+    "back": "Angularity controls the orientation of a surface, axis, or line, holding it within a specified tolerance zone at a stated angle, other than 0 or 90 degrees, relative to a referenced datum."
+  },
+  {
+    "id": 144,
+    "domain": "product_process_and_service_design",
+    "front": "What does the position symbol control in GD&T?",
+    "back": "Position controls the location of a feature of size, such as a hole or pin, relative to specified datums, defining a tolerance zone within which the feature's axis or center plane must lie; it commonly applies at MMC to allow bonus tolerance."
+  },
+  {
+    "id": 145,
+    "domain": "product_process_and_service_design",
+    "front": "What does the concentricity symbol control in GD&T?",
+    "back": "Concentricity requires the median points of all diametrically opposed elements of a feature of revolution to lie within a cylindrical tolerance zone centered on the datum axis; it is rarely used because it requires derived median-point data that is difficult to measure."
+  },
+  {
+    "id": 146,
+    "domain": "product_process_and_service_design",
+    "front": "What does the symmetry symbol control in GD&T?",
+    "back": "Symmetry requires the median points of two opposed or correspondingly located features to lie within a tolerance zone centered on a datum plane or axis, ensuring the feature is balanced about that datum."
+  },
+  {
+    "id": 147,
+    "domain": "product_process_and_service_design",
+    "front": "What does the profile of a line symbol control in GD&T?",
+    "back": "Profile of a line controls a two-dimensional cross-sectional outline of a surface, requiring the line element at each cross-section to lie within a tolerance zone formed by two boundary lines offset from the true profile."
+  },
+  {
+    "id": 148,
+    "domain": "product_process_and_service_design",
+    "front": "What does the profile of a surface symbol control in GD&T?",
+    "back": "Profile of a surface controls an entire three-dimensional surface, requiring every point on it to lie within a tolerance zone formed by two boundary surfaces offset from the true profile; depending on the datums referenced, it can control form, orientation, and location."
+  },
+  {
+    "id": 149,
+    "domain": "product_process_and_service_design",
+    "front": "What does the circular runout symbol control in GD&T?",
+    "back": "Circular runout controls the variation of a single circular cross-section as the part is rotated 360 degrees about a datum axis, limiting the combined effects of circularity and coaxial location at that cross-section."
+  },
+  {
+    "id": 150,
+    "domain": "product_process_and_service_design",
+    "front": "What does the total runout symbol control in GD&T?",
+    "back": "Total runout controls an entire surface simultaneously as the part is rotated about a datum axis while an indicator moves across the full length of the surface, limiting the combined effects of circularity, straightness, coaxiality, and taper over the whole feature."
+  },
+  {
+    "id": 151,
+    "domain": "product_process_and_service_design",
+    "front": "What is the difference between verification and validation?",
+    "back": "Verification confirms that a design or product meets specified requirements, answering did we build it right, while validation confirms that the product meets the actual user need in its intended use environment, answering did we build the right thing."
+  },
+  {
+    "id": 152,
+    "domain": "product_process_and_service_design",
+    "front": "What is Installation Qualification (IQ)?",
+    "back": "Documented evidence that equipment or a facility has been installed correctly, according to approved specifications and the manufacturer's recommendations, before it is used for production or testing."
+  },
+  {
+    "id": 153,
+    "domain": "product_process_and_service_design",
+    "front": "What is Operational Qualification (OQ)?",
+    "back": "Documented evidence that installed equipment operates as intended throughout its specified operating ranges, typically demonstrated using worst-case or boundary conditions."
+  },
+  {
+    "id": 154,
+    "domain": "product_process_and_service_design",
+    "front": "What is Performance Qualification (PQ)?",
+    "back": "Documented evidence that equipment or a process consistently performs as intended and produces conforming output when operated under normal production conditions over a defined period."
+  },
+  {
+    "id": 155,
+    "domain": "product_process_and_service_design",
+    "front": "What does MTTF (Mean Time To Failure) measure, and to which items does it apply?",
+    "back": "MTTF is the average time a non-repairable item operates before it fails; it applies to items that are replaced, not repaired, once they fail."
+  },
+  {
+    "id": 156,
+    "domain": "product_process_and_service_design",
+    "front": "What does MTBF (Mean Time Between Failures) measure, and to which items does it apply?",
+    "back": "MTBF is the average operating time between successive failures of a repairable item; it applies to items that are repaired and returned to service after a failure."
+  },
+  {
+    "id": 157,
+    "domain": "product_process_and_service_design",
+    "front": "What does MTTR (Mean Time To Repair) measure?",
+    "back": "MTTR is the average time required to diagnose, repair, and restore a failed repairable item to full operating condition, including detection, diagnosis, and repair time."
+  },
+  {
+    "id": 158,
+    "domain": "product_process_and_service_design",
+    "front": "What is the formula for steady-state availability in terms of MTBF and MTTR?",
+    "back": "Availability = MTBF \u00f7 (MTBF + MTTR); it represents the proportion of time a repairable system is expected to be operational and ready for use."
+  },
+  {
+    "id": 159,
+    "domain": "product_process_and_service_design",
+    "front": "What is the formula for failure rate (lambda) in terms of MTBF?",
+    "back": "Failure rate \u03bb = 1 \u00f7 MTBF, representing the number of failures expected per unit of operating time, assuming a constant failure rate."
+  },
+  {
+    "id": 160,
+    "domain": "product_process_and_service_design",
+    "front": "How are MTTF and MTBF different in what they include?",
+    "back": "MTTF measures only the operating time to a single failure for a non-repairable item, while MTBF measures the operating time between repeated failures for a repairable item, reflecting ongoing operation rather than a one-time end of life."
+  },
+  {
+    "id": 161,
+    "domain": "product_process_and_service_design",
+    "front": "What characterizes the exponential distribution as a reliability model?",
+    "back": "The exponential distribution models a constant failure rate over time, meaning the probability of failure in the next instant does not depend on how long the item has already operated; it corresponds to the useful life (flat) region of the bathtub curve."
+  },
+  {
+    "id": 162,
+    "domain": "product_process_and_service_design",
+    "front": "What does the shape parameter (beta) of the Weibull distribution indicate about failure rate?",
+    "back": "Beta less than 1 indicates a decreasing failure rate (infant mortality), beta equal to 1 indicates a constant failure rate (equivalent to the exponential distribution), and beta greater than 1 indicates an increasing failure rate (wear-out)."
+  },
+  {
+    "id": 163,
+    "domain": "product_process_and_service_design",
+    "front": "What are the three phases of the bathtub curve?",
+    "back": "Infant mortality (early, decreasing failure rate, often from manufacturing defects), useful life (a long period of low, constant failure rate from random failures), and wear-out (a later, increasing failure rate as components age and degrade)."
+  },
+  {
+    "id": 164,
+    "domain": "product_process_and_service_design",
+    "front": "What causes failures during the infant mortality region of the bathtub curve, and how are they typically reduced?",
+    "back": "Infant mortality failures are usually caused by manufacturing defects, material flaws, or workmanship errors; they are typically reduced through burn-in testing or environmental stress screening before shipment."
+  },
+  {
+    "id": 165,
+    "domain": "product_process_and_service_design",
+    "front": "What is the general purpose of an FMEA (Failure Mode and Effects Analysis)?",
+    "back": "FMEA is a systematic, proactive method for identifying potential failure modes in a design or process, evaluating their effects and causes, and prioritizing actions to reduce risk before failures occur."
+  },
+  {
+    "id": 166,
+    "domain": "product_process_and_service_design",
+    "front": "What is a Design FMEA (dFMEA) used to analyze?",
+    "back": "A dFMEA analyzes potential failure modes caused by design deficiencies, such as weaknesses in the product's function, materials, or geometry, before the design is released to production."
+  },
+  {
+    "id": 167,
+    "domain": "product_process_and_service_design",
+    "front": "What is a Process FMEA (pFMEA) used to analyze?",
+    "back": "A pFMEA analyzes potential failure modes that could occur during manufacturing or assembly of a product, focusing on process steps, equipment, and methods rather than the design itself."
+  },
+  {
+    "id": 168,
+    "domain": "product_process_and_service_design",
+    "front": "What is a use FMEA (uFMEA) used to analyze?",
+    "back": "A use FMEA analyzes potential failure modes arising from how an end user interacts with, operates, or misuses a product, addressing human-factors and use-error risks not covered by design or process FMEAs."
+  },
+  {
+    "id": 169,
+    "domain": "product_process_and_service_design",
+    "front": "How does FMECA (Failure Mode, Effects, and Criticality Analysis) extend a standard FMEA?",
+    "back": "FMECA adds a formal criticality analysis to FMEA, ranking failure modes by combining severity with probability of occurrence to quantify how critical each failure mode is, beyond the severity, occurrence, and detection ranking used in RPN-based FMEA."
+  },
+  {
+    "id": 170,
+    "domain": "product_process_and_service_design",
+    "front": "What is a hazard analysis and how does it relate to FMEA?",
+    "back": "A hazard analysis is a systematic examination focused specifically on identifying potential hazards and their consequences to safety; it can use FMEA-style methods but is scoped to safety risk rather than general product or process performance."
+  },
+  {
+    "id": 171,
+    "domain": "product_process_and_service_design",
+    "front": "What does the severity rating represent in an FMEA?",
+    "back": "Severity rates how serious the consequence of a failure mode would be if it occurred, typically on a numeric scale, with the highest values reserved for failures affecting safety or regulatory compliance."
+  },
+  {
+    "id": 172,
+    "domain": "product_process_and_service_design",
+    "front": "What do the occurrence and detection ratings represent in an FMEA?",
+    "back": "Occurrence rates how frequently a specific cause is likely to result in the failure mode, while detection rates how effectively current controls are likely to detect the cause or failure mode before it reaches the customer; both are typically rated on the same numeric scale as severity."
+  },
+  {
+    "id": 173,
+    "domain": "product_process_and_service_design",
+    "front": "What is the formula for Risk Priority Number (RPN) in FMEA?",
+    "back": "RPN = Severity \u00d7 Occurrence \u00d7 Detection; the three ratings are multiplied together to produce a single number used to prioritize which failure modes need corrective action first."
+  },
+  {
+    "id": 174,
+    "domain": "product_process_and_service_design",
+    "front": "What is a key limitation of using RPN alone to prioritize FMEA actions?",
+    "back": "RPN can mask high-severity failure modes with low occurrence or detection scores, since a moderate RPN from three mid-range ratings can outrank a lower RPN that hides a critical severity, so severity should also be reviewed independently rather than relying on the RPN number alone."
+  },
+  {
+    "id": 175,
+    "domain": "product_process_and_service_design",
+    "front": "What is an Action Priority approach and how does it differ from a fixed RPN threshold?",
+    "back": "An Action Priority approach ranks failure modes primarily by severity first, then occurrence, then detection, assigning a high, medium, or low priority for action, rather than relying on a single RPN number or a fixed numeric cutoff that can obscure high-severity, low-frequency risks."
+  },
+  {
+    "id": 176,
+    "domain": "product_and_process_control",
+    "front": "What is a control plan in quality engineering?",
+    "back": "A written document that describes the systems and processes required to control a part or process, listing the characteristics to be controlled, the measurement methods, sample sizes and frequencies, and the reaction plan if a characteristic goes out of control."
+  },
+  {
+    "id": 177,
+    "domain": "product_and_process_control",
+    "front": "What is a critical control point in a process?",
+    "back": "A step in a process where a control must be applied to prevent, eliminate, or reduce a significant quality or safety risk to an acceptable level."
+  },
+  {
+    "id": 178,
+    "domain": "product_and_process_control",
+    "front": "What is the main purpose of a work instruction?",
+    "back": "To give an operator a detailed, step-by-step description of how to perform a specific task consistently, including tools, settings, and acceptance criteria."
+  },
+  {
+    "id": 179,
+    "domain": "product_and_process_control",
+    "front": "How does a work instruction differ from a procedure?",
+    "back": "A procedure describes the overall process at a higher level, while a work instruction gives detailed, task-level directions for a single operation within that procedure."
+  },
+  {
+    "id": 180,
+    "domain": "product_and_process_control",
+    "front": "What is material identification in quality control?",
+    "back": "The practice of marking or labeling material so its type, specification, and revision can be verified at any point in the process."
+  },
+  {
+    "id": 181,
+    "domain": "product_and_process_control",
+    "front": "What is material status in the context of product control?",
+    "back": "A designation showing whether material has been inspected and is accepted, rejected, or awaiting inspection, often shown with tags, stamps, or colored labels."
+  },
+  {
+    "id": 182,
+    "domain": "product_and_process_control",
+    "front": "What is material traceability?",
+    "back": "The ability to track the history, location, and application of a specific lot or item of material, including its origin and processing steps, using records such as lot numbers or serial numbers."
+  },
+  {
+    "id": 183,
+    "domain": "product_and_process_control",
+    "front": "Why is traceability especially important in regulated industries such as aerospace and medical devices?",
+    "back": "It allows a defect or failure to be traced back to its source lot or process step so the scope of a problem can be contained and corrective action targeted precisely."
+  },
+  {
+    "id": 184,
+    "domain": "product_and_process_control",
+    "front": "What is material segregation?",
+    "back": "The physical separation of nonconforming, suspect, or unidentified material from conforming material to prevent it from being mixed in with good product."
+  },
+  {
+    "id": 185,
+    "domain": "product_and_process_control",
+    "front": "Why is a designated quarantine or hold area used for nonconforming material?",
+    "back": "It physically isolates suspect or rejected material so it cannot accidentally be shipped, used, or mixed with accepted product before a disposition decision is made."
+  },
+  {
+    "id": 186,
+    "domain": "product_and_process_control",
+    "front": "What is a nonconformity?",
+    "back": "A failure of a product, process, or service to meet a specified requirement."
+  },
+  {
+    "id": 187,
+    "domain": "product_and_process_control",
+    "front": "What is the difference between a defect and a nonconformity?",
+    "back": "A nonconformity is a failure to meet any specified requirement, while a defect is a nonconformity related to an intended or specified use of the product, often carrying more serious consequences."
+  },
+  {
+    "id": 188,
+    "domain": "product_and_process_control",
+    "front": "What is a critical defect?",
+    "back": "A defect that could result in hazardous or unsafe conditions for the people using, maintaining, or depending on the product, or that could prevent the performance of a critical function."
+  },
+  {
+    "id": 189,
+    "domain": "product_and_process_control",
+    "front": "What is a major defect?",
+    "back": "A defect other than critical that could result in a failure or materially reduce the usability of the product for its intended purpose."
+  },
+  {
+    "id": 190,
+    "domain": "product_and_process_control",
+    "front": "What is a minor defect?",
+    "back": "A defect that does not materially reduce the usability of the product for its intended purpose, or that is a departure from established standards having little effect on effective use."
+  },
+  {
+    "id": 191,
+    "domain": "product_and_process_control",
+    "front": "What is a Material Review Board (MRB)?",
+    "back": "A cross-functional team, typically including quality, engineering, and manufacturing representatives, authorized to evaluate nonconforming material and decide its disposition."
+  },
+  {
+    "id": 192,
+    "domain": "product_and_process_control",
+    "front": "What disposition options are typically available to a Material Review Board?",
+    "back": "Use-as-is, rework, repair, scrap, and return to supplier, depending on the nature and severity of the nonconformity."
+  },
+  {
+    "id": 193,
+    "domain": "product_and_process_control",
+    "front": "What does a 'use-as-is' disposition mean?",
+    "back": "The MRB determines the nonconforming item still meets the functional requirements of the customer and can be used without any further work, even though it does not meet the original specification."
+  },
+  {
+    "id": 194,
+    "domain": "product_and_process_control",
+    "front": "What is the difference between rework and repair as MRB dispositions?",
+    "back": "Rework restores a nonconforming item to full conformance with the original specification, while repair reduces but does not fully eliminate the nonconformity, resulting in an item that is usable but not fully conforming."
+  },
+  {
+    "id": 195,
+    "domain": "product_and_process_control",
+    "front": "What is acceptance sampling?",
+    "back": "A statistical method of inspecting a sample of items from a lot to decide whether to accept or reject the entire lot, rather than inspecting every item."
+  },
+  {
+    "id": 196,
+    "domain": "product_and_process_control",
+    "front": "What is producer's risk in acceptance sampling?",
+    "back": "The probability, denoted alpha, that a sampling plan will reject a lot that is actually good, that is, a lot at or better than the acceptable quality level."
+  },
+  {
+    "id": 197,
+    "domain": "product_and_process_control",
+    "front": "What is consumer's risk in acceptance sampling?",
+    "back": "The probability, denoted beta, that a sampling plan will accept a lot that is actually bad, that is, a lot at or worse than the rejectable quality level."
+  },
+  {
+    "id": 198,
+    "domain": "product_and_process_control",
+    "front": "What is an Operating Characteristic (OC) curve?",
+    "back": "A graph that plots the probability of accepting a lot against the actual percent defective in that lot, showing the discriminating power of a specific sampling plan."
+  },
+  {
+    "id": 199,
+    "domain": "product_and_process_control",
+    "front": "What happens to the OC curve as sample size increases without changing the accept or reject numbers proportionally?",
+    "back": "A larger sample size makes the OC curve steeper, meaning the plan more sharply discriminates between good and bad lots and reduces both producer's and consumer's risk."
+  },
+  {
+    "id": 200,
+    "domain": "product_and_process_control",
+    "front": "What does AQL stand for and what does it represent?",
+    "back": "Acceptable Quality Level, the worst tolerable process average, expressed as percent defective or defects per hundred units, that is still considered acceptable for the purpose of sampling inspection."
+  },
+  {
+    "id": 201,
+    "domain": "product_and_process_control",
+    "front": "What does LTPD stand for and what does it represent?",
+    "back": "Lot Tolerance Percent Defective, the percent defective in a lot that a sampling plan will accept only with a low, specified probability, typically associated with consumer's risk."
+  },
+  {
+    "id": 202,
+    "domain": "product_and_process_control",
+    "front": "On the OC curve, where do AQL and LTPD generally fall?",
+    "back": "AQL falls near the top of the curve where the probability of acceptance is high, typically around 0.95, while LTPD falls near the bottom where the probability of acceptance is low, typically around 0.10."
+  },
+  {
+    "id": 203,
+    "domain": "product_and_process_control",
+    "front": "What is ANSI/ASQ Z1.4 used for?",
+    "back": "Sampling procedures and tables for inspection by attributes, used to accept or reject lots based on counting the number of nonconforming or defective units in a sample."
+  },
+  {
+    "id": 204,
+    "domain": "product_and_process_control",
+    "front": "What is ANSI/ASQ Z1.9 used for?",
+    "back": "Sampling procedures and tables for inspection by variables, used to accept or reject lots based on measured characteristics such as length or weight rather than simple pass/fail counts."
+  },
+  {
+    "id": 205,
+    "domain": "product_and_process_control",
+    "front": "What are the three inspection levels in ANSI/ASQ Z1.4?",
+    "back": "General inspection levels I, II, and III, with Level II used as the normal default, Level I used when less discrimination is needed, and Level III used when greater discrimination is needed."
+  },
+  {
+    "id": 206,
+    "domain": "product_and_process_control",
+    "front": "What are the three inspection severities available under ANSI/ASQ Z1.4?",
+    "back": "Normal, tightened, and reduced inspection, with switching rules that move a plan to tightened inspection after a run of rejected lots and to reduced inspection after a run of acceptable lots."
+  },
+  {
+    "id": 207,
+    "domain": "product_and_process_control",
+    "front": "Under ANSI/ASQ Z1.4, when does inspection switch from normal to tightened?",
+    "back": "When two out of five consecutive lots have been rejected on original inspection, indicating the process may have deteriorated."
+  },
+  {
+    "id": 208,
+    "domain": "product_and_process_control",
+    "front": "What is the general advantage of variables sampling plans like Z1.9 over attributes plans like Z1.4?",
+    "back": "Variables plans usually require a smaller sample size to achieve the same level of protection because they use more information from each measured unit rather than just a pass or fail count."
+  },
+  {
+    "id": 209,
+    "domain": "product_and_process_control",
+    "front": "What is a disadvantage of variables sampling plans compared to attributes plans?",
+    "back": "Variables plans require a separate plan and calculation for each characteristic measured, and generally assume the measured characteristic follows a normal distribution."
+  },
+  {
+    "id": 210,
+    "domain": "product_and_process_control",
+    "front": "What is sample integrity in acceptance sampling?",
+    "back": "Ensuring that a sample is drawn randomly and represents the entire lot, and that it is not tampered with, substituted, or altered between selection and inspection."
+  },
+  {
+    "id": 211,
+    "domain": "product_and_process_control",
+    "front": "Why must samples for acceptance sampling be selected randomly?",
+    "back": "Random selection ensures every unit in the lot has an equal chance of being chosen, which is required for the statistical probabilities behind the sampling plan and OC curve to be valid."
+  },
+  {
+    "id": 212,
+    "domain": "product_and_process_control",
+    "front": "What is a gage block used for?",
+    "back": "A precisely made and calibrated block of metal or ceramic used as a reference standard for length, commonly stacked in combinations to calibrate other measuring instruments."
+  },
+  {
+    "id": 213,
+    "domain": "product_and_process_control",
+    "front": "What is the wringing property of gage blocks?",
+    "back": "The ability of gage block surfaces to adhere to each other when slid together, which allows blocks to be stacked into a combination with minimal added dimensional error."
+  },
+  {
+    "id": 214,
+    "domain": "product_and_process_control",
+    "front": "What does a caliper measure and how does it work?",
+    "back": "A caliper measures external, internal, or depth dimensions using a sliding scale, either read on a vernier or dial scale or displayed digitally."
+  },
+  {
+    "id": 215,
+    "domain": "product_and_process_control",
+    "front": "What is the typical resolution of a standard vernier caliper?",
+    "back": "0.001 inch or 0.02 millimeter, depending on the model, though digital calipers can offer similar or finer resolution."
+  },
+  {
+    "id": 216,
+    "domain": "product_and_process_control",
+    "front": "What does a micrometer measure and what is its typical resolution?",
+    "back": "A micrometer measures small external, internal, or depth dimensions very precisely, typically to a resolution of 0.0001 inch or 0.002 millimeter, using a calibrated screw thread mechanism."
+  },
+  {
+    "id": 217,
+    "domain": "product_and_process_control",
+    "front": "Why is a micrometer generally more precise than a caliper?",
+    "back": "The fine pitch of its screw thread mechanism amplifies small movements into larger, more readable scale increments, and its anvil and spindle design reduces measurement play."
+  },
+  {
+    "id": 218,
+    "domain": "product_and_process_control",
+    "front": "What is an optical comparator used for?",
+    "back": "A device that projects a magnified silhouette or profile of a part onto a screen so its dimensions and shape can be compared against an overlay chart or measured directly."
+  },
+  {
+    "id": 219,
+    "domain": "product_and_process_control",
+    "front": "What type of parts are optical comparators best suited to inspect?",
+    "back": "Small parts with complex profiles, sharp edges, or fine features that are difficult to measure with contact instruments, such as stamped parts, threads, and gears."
+  },
+  {
+    "id": 220,
+    "domain": "product_and_process_control",
+    "front": "What is a Coordinate Measuring Machine (CMM)?",
+    "back": "A device that uses a probe to record precise X, Y, and Z coordinates of points on a part's surface, allowing complex geometric features and tolerances to be measured and compared to CAD data."
+  },
+  {
+    "id": 221,
+    "domain": "product_and_process_control",
+    "front": "What is a key advantage of a CMM over manual gaging for complex parts?",
+    "back": "A CMM can measure many geometric features, including true position, profile, and complex surfaces, in one setup with high accuracy and can generate detailed inspection reports automatically."
+  },
+  {
+    "id": 222,
+    "domain": "product_and_process_control",
+    "front": "What is destructive testing?",
+    "back": "A test method that damages, breaks, or consumes the part being tested, such as a tensile pull test or a hardness test that leaves an indentation, so the tested unit cannot be used afterward."
+  },
+  {
+    "id": 223,
+    "domain": "product_and_process_control",
+    "front": "What is nondestructive testing (NDT)?",
+    "back": "A test method that evaluates a part's properties or detects flaws without damaging the part, allowing the same unit to still be used or sold after testing."
+  },
+  {
+    "id": 224,
+    "domain": "product_and_process_control",
+    "front": "Name three common nondestructive testing methods.",
+    "back": "Ultrasonic testing, radiographic testing, and dye penetrant or magnetic particle testing are all common nondestructive methods used to detect internal or surface flaws."
+  },
+  {
+    "id": 225,
+    "domain": "product_and_process_control",
+    "front": "Why might a company choose destructive testing over nondestructive testing when both are available?",
+    "back": "Destructive testing can reveal ultimate strength, fatigue life, or internal material properties that nondestructive methods cannot directly measure, even though it sacrifices the tested unit."
+  },
+  {
+    "id": 226,
+    "domain": "product_and_process_control",
+    "front": "What is metrology?",
+    "back": "The science of measurement, including the establishment of measurement units, the development of measurement methods, and the assurance of measurement accuracy through calibration."
+  },
+  {
+    "id": 227,
+    "domain": "product_and_process_control",
+    "front": "What is calibration?",
+    "back": "The process of comparing a measuring instrument's readings against a known reference standard of higher accuracy, and adjusting or documenting the instrument's accuracy accordingly."
+  },
+  {
+    "id": 228,
+    "domain": "product_and_process_control",
+    "front": "What is measurement traceability?",
+    "back": "An unbroken chain of calibrations linking a measuring instrument's result back to a national or international measurement standard, with each link having a stated uncertainty."
+  },
+  {
+    "id": 229,
+    "domain": "product_and_process_control",
+    "front": "What are the two broad categories of measurement error?",
+    "back": "Systematic error, which is a consistent, repeatable deviation caused by a fixed bias, and random error, which varies unpredictably from one measurement to the next."
+  },
+  {
+    "id": 230,
+    "domain": "product_and_process_control",
+    "front": "What is Measurement System Analysis (MSA)?",
+    "back": "A collection of statistical studies used to evaluate the accuracy, precision, and stability of a measurement system to determine whether it is suitable for its intended use."
+  },
+  {
+    "id": 231,
+    "domain": "product_and_process_control",
+    "front": "What is a Gage R&R study used to evaluate?",
+    "back": "The amount of variation in measurement results that comes from the measurement system itself, separating it from the true variation in the parts being measured."
+  },
+  {
+    "id": 232,
+    "domain": "product_and_process_control",
+    "front": "What does the R&R in Gage R&R stand for?",
+    "back": "Repeatability and reproducibility, the two main sources of measurement system variation evaluated in the study."
+  },
+  {
+    "id": 233,
+    "domain": "product_and_process_control",
+    "front": "What is repeatability in a Gage R&R study?",
+    "back": "The variation in measurements obtained when one appraiser measures the same part multiple times with the same gage, also called equipment variation."
+  },
+  {
+    "id": 234,
+    "domain": "product_and_process_control",
+    "front": "What is reproducibility in a Gage R&R study?",
+    "back": "The variation in the average of measurements made by different appraisers measuring the same part with the same gage, also called appraiser variation."
+  },
+  {
+    "id": 235,
+    "domain": "product_and_process_control",
+    "front": "What is bias in a measurement system?",
+    "back": "The difference between the observed average of measurements and the true or reference value of the part, representing a systematic offset in the measurement system."
+  },
+  {
+    "id": 236,
+    "domain": "product_and_process_control",
+    "front": "What is linearity in a measurement system?",
+    "back": "The consistency of bias across the full operating range of the measurement instrument, checked by measuring reference parts at different points across the range and comparing the bias at each point."
+  },
+  {
+    "id": 237,
+    "domain": "product_and_process_control",
+    "front": "What is precision in measurement?",
+    "back": "The closeness of repeated measurements of the same item to each other, reflecting the amount of scatter or spread in the data regardless of whether the values are correct."
+  },
+  {
+    "id": 238,
+    "domain": "product_and_process_control",
+    "front": "What is stability in a measurement system?",
+    "back": "The consistency of a measurement system's bias over time when measuring the same reference part or standard, evaluated using a control chart over an extended period."
+  },
+  {
+    "id": 239,
+    "domain": "product_and_process_control",
+    "front": "What is accuracy in measurement?",
+    "back": "The closeness of a measured value to the true or accepted reference value, combining both low bias and low variability, distinct from precision, which addresses scatter alone."
+  },
+  {
+    "id": 240,
+    "domain": "product_and_process_control",
+    "front": "Can a measurement system be precise but not accurate? Give an example.",
+    "back": "Yes. A scale that consistently reads 2 grams heavier than the true weight every time is precise, since results are tightly clustered, but not accurate, since it is biased away from the true value."
+  },
+  {
+    "id": 241,
+    "domain": "product_and_process_control",
+    "front": "What is generally considered an acceptable percent Gage R&R for a measurement system?",
+    "back": "Under 10 percent of total variation is generally considered acceptable, 10 to 30 percent may be acceptable depending on the application and cost, and over 30 percent is generally considered unacceptable."
+  },
+  {
+    "id": 242,
+    "domain": "product_and_process_control",
+    "front": "What is the Number of Distinct Categories (ndc) in a Gage R&R study?",
+    "back": "A statistic estimating how many distinct groups of part variation the measurement system can reliably distinguish, with a value of 5 or greater generally considered acceptable."
+  },
+  {
+    "id": 243,
+    "domain": "product_and_process_control",
+    "front": "Why should the parts selected for a Gage R&R study represent the full range of process variation?",
+    "back": "Because percent Gage R&R is calculated relative to total observed variation, using parts that do not represent the true process spread can make the measurement system appear artificially better or worse than it really is."
+  },
+  {
+    "id": 244,
+    "domain": "product_and_process_control",
+    "front": "What is a control plan's reaction plan used for?",
+    "back": "It specifies the actions to be taken, such as stopping the process, notifying a supervisor, or quarantining product, when a monitored characteristic is found to be out of control or out of specification."
+  },
+  {
+    "id": 245,
+    "domain": "product_and_process_control",
+    "front": "Why is material classification of defects important before an MRB disposition decision is made?",
+    "back": "Classifying a defect as critical, major, or minor helps determine the urgency of the response and which disposition options, such as use-as-is versus mandatory scrap, are appropriate for the severity involved."
+  },
+  {
+    "id": 246,
+    "domain": "continuous_improvement",
+    "front": "What are the 7 basic quality tools?",
+    "back": "Flowcharts, Pareto charts, cause-and-effect (fishbone) diagrams, control charts, check sheets, scatter diagrams, and histograms."
+  },
+  {
+    "id": 247,
+    "domain": "continuous_improvement",
+    "front": "What is the primary purpose of a flowchart in quality improvement?",
+    "back": "To visually map the sequence of steps in a process, showing decision points and flow, so team members can identify redundancies, bottlenecks, or non-value-added steps."
+  },
+  {
+    "id": 248,
+    "domain": "continuous_improvement",
+    "front": "What principle underlies a Pareto chart?",
+    "back": "The 80/20 rule: roughly 80% of problems or effects come from about 20% of the causes, so the chart ranks causes by frequency or cost to focus improvement effort on the vital few."
+  },
+  {
+    "id": 249,
+    "domain": "continuous_improvement",
+    "front": "How is a Pareto chart typically constructed?",
+    "back": "Bars for each category are arranged in descending order of frequency or impact, with a cumulative percentage line overlaid to show the running total across categories."
+  },
+  {
+    "id": 250,
+    "domain": "continuous_improvement",
+    "front": "What are the six major categories (the 6 M's) typically used as branches on a cause-and-effect diagram for manufacturing?",
+    "back": "Man (People), Machine, Method, Material, Measurement, and Mother Nature (Environment)."
+  },
+  {
+    "id": 251,
+    "domain": "continuous_improvement",
+    "front": "Why is a cause-and-effect diagram also called a fishbone or Ishikawa diagram?",
+    "back": "Its layout resembles a fish skeleton, with the problem statement at the head and major cause categories branching off a central spine like bones, and it was popularized by Kaoru Ishikawa."
+  },
+  {
+    "id": 252,
+    "domain": "continuous_improvement",
+    "front": "What is the main purpose of a control chart?",
+    "back": "To monitor process performance over time and distinguish common-cause (natural, expected) variation from special-cause (assignable, unusual) variation using statistically derived control limits."
+  },
+  {
+    "id": 253,
+    "domain": "continuous_improvement",
+    "front": "How are control limits on a control chart typically calculated, and how do they differ from specification limits?",
+    "back": "Control limits are usually set at plus or minus three standard deviations from the process mean and reflect actual process variation, while specification limits come from customer or design requirements and are unrelated to the process's own statistical behavior."
+  },
+  {
+    "id": 254,
+    "domain": "continuous_improvement",
+    "front": "What is a check sheet used for?",
+    "back": "A simple structured form for collecting and tallying data in real time as events occur, making it easy to see frequency patterns of defects, causes, or locations."
+  },
+  {
+    "id": 255,
+    "domain": "continuous_improvement",
+    "front": "What type of check sheet uses a diagram of the product or area to mark where defects occur?",
+    "back": "A location or concentration check sheet (sometimes called a defect map)."
+  },
+  {
+    "id": 256,
+    "domain": "continuous_improvement",
+    "front": "What does a scatter diagram show, and what does it NOT prove?",
+    "back": "It plots paired data for two variables to reveal whether a relationship or correlation exists between them; it shows correlation only and does not by itself prove causation."
+  },
+  {
+    "id": 257,
+    "domain": "continuous_improvement",
+    "front": "How would points on a scatter diagram appear if two variables have a strong negative correlation?",
+    "back": "The points would cluster tightly along a line trending downward from upper left to lower right, meaning as one variable increases the other decreases."
+  },
+  {
+    "id": 258,
+    "domain": "continuous_improvement",
+    "front": "What is a histogram used to show?",
+    "back": "The frequency distribution of a continuous data set, using adjacent bars over class intervals to reveal the shape, center, and spread of the data."
+  },
+  {
+    "id": 259,
+    "domain": "continuous_improvement",
+    "front": "What does a bimodal histogram (two distinct peaks) usually suggest about the underlying data?",
+    "back": "That the data actually comes from two different sources or processes, such as two machines, shifts, or suppliers, that have been mixed together in one data set."
+  },
+  {
+    "id": 260,
+    "domain": "continuous_improvement",
+    "front": "What are the 7 management and planning tools?",
+    "back": "Affinity diagrams, interrelationship digraphs, tree diagrams, prioritization matrices, matrix diagrams, process decision program charts (PDPC), and activity network diagrams."
+  },
+  {
+    "id": 261,
+    "domain": "continuous_improvement",
+    "front": "What is an affinity diagram used for?",
+    "back": "Organizing a large number of ideas or facts, usually generated by brainstorming, into natural groupings based on their underlying relationships or themes."
+  },
+  {
+    "id": 262,
+    "domain": "continuous_improvement",
+    "front": "What is the purpose of force field analysis?",
+    "back": "To identify and weigh the driving forces that support a change against the restraining forces that oppose it, helping a team plan how to strengthen drivers and weaken barriers."
+  },
+  {
+    "id": 263,
+    "domain": "continuous_improvement",
+    "front": "What does a tree diagram do in quality planning?",
+    "back": "It breaks a broad goal or objective down into progressively more detailed levels of tasks or means needed to achieve it, showing the logical hierarchy from general to specific."
+  },
+  {
+    "id": 264,
+    "domain": "continuous_improvement",
+    "front": "What is a process decision program chart (PDPC) used for?",
+    "back": "Mapping out a plan or process along with potential problems or failure points at each step, together with countermeasures, so contingencies are identified before they occur."
+  },
+  {
+    "id": 265,
+    "domain": "continuous_improvement",
+    "front": "What is the main function of a matrix diagram?",
+    "back": "To display the relationships between two or more sets of factors, such as customer requirements and design characteristics, in a grid so the strength or presence of each relationship can be evaluated."
+  },
+  {
+    "id": 266,
+    "domain": "continuous_improvement",
+    "front": "What does an interrelationship digraph reveal that an affinity diagram does not?",
+    "back": "It maps cause-and-effect and logical relationships between ideas or issues, showing which items are key drivers and which are key outcomes, rather than simply grouping similar items by theme."
+  },
+  {
+    "id": 267,
+    "domain": "continuous_improvement",
+    "front": "What is a prioritization matrix used for?",
+    "back": "Systematically ranking a list of options or tasks against a set of weighted criteria to decide which should be pursued first."
+  },
+  {
+    "id": 268,
+    "domain": "continuous_improvement",
+    "front": "What is an activity network diagram (arrow diagram) used to plan?",
+    "back": "The sequence and timing of tasks in a project, including which tasks can run in parallel and which must occur in sequence, often used to identify the critical path."
+  },
+  {
+    "id": 269,
+    "domain": "continuous_improvement",
+    "front": "What does TQM stand for, and what is its core philosophy?",
+    "back": "Total Quality Management: an organization-wide philosophy that quality is everyone's responsibility, driven by customer focus, continuous improvement, and full employee involvement across all processes."
+  },
+  {
+    "id": 270,
+    "domain": "continuous_improvement",
+    "front": "What does the Japanese term Kaizen mean, and what is its scope?",
+    "back": "Kaizen means continuous, incremental improvement; it emphasizes small, ongoing changes made by everyone in the organization rather than large, infrequent breakthrough projects."
+  },
+  {
+    "id": 271,
+    "domain": "continuous_improvement",
+    "front": "What is a Kaizen event (or Kaizen blitz)?",
+    "back": "A short, focused, team-based improvement activity, typically lasting a few days, aimed at rapidly improving a specific process or work area."
+  },
+  {
+    "id": 272,
+    "domain": "continuous_improvement",
+    "front": "What do the four steps of the PDCA cycle stand for?",
+    "back": "Plan, Do, Check, Act: plan the change, implement it on a small scale, check the results against the plan, and act to standardize or adjust based on what was learned."
+  },
+  {
+    "id": 273,
+    "domain": "continuous_improvement",
+    "front": "Who is PDCA most closely associated with, and what is it also sometimes called?",
+    "back": "It is closely associated with W. Edwards Deming (who credited Walter Shewhart with the original concept) and is also called the Shewhart cycle or the Deming cycle."
+  },
+  {
+    "id": 274,
+    "domain": "continuous_improvement",
+    "front": "What is the goal of Six Sigma in terms of process defects?",
+    "back": "To reduce process variation so that a process produces no more than about 3.4 defects per million opportunities."
+  },
+  {
+    "id": 275,
+    "domain": "continuous_improvement",
+    "front": "What do the five phases of DMAIC stand for?",
+    "back": "Define, Measure, Analyze, Improve, and Control: define the problem and goals, measure current performance, analyze root causes, implement improvements, and control the gains going forward."
+  },
+  {
+    "id": 276,
+    "domain": "continuous_improvement",
+    "front": "In DMAIC, what is the main purpose of the Control phase?",
+    "back": "To sustain the improvements made by putting monitoring systems, control plans, and standard procedures in place so the process does not revert to its old performance level."
+  },
+  {
+    "id": 277,
+    "domain": "continuous_improvement",
+    "front": "What is the role of a Black Belt in a Six Sigma organization?",
+    "back": "A Black Belt is a full-time, highly trained project leader who leads complex Six Sigma improvement projects and mentors Green Belts."
+  },
+  {
+    "id": 278,
+    "domain": "continuous_improvement",
+    "front": "What does the 5S methodology stand for?",
+    "back": "Sort, Set in Order, Shine, Standardize, and Sustain: a workplace organization method for eliminating clutter and creating a clean, efficient, and consistently maintained work area."
+  },
+  {
+    "id": 279,
+    "domain": "continuous_improvement",
+    "front": "In 5S, what happens during the Sort (Seiri) step?",
+    "back": "Unnecessary items are separated from necessary ones and removed from the work area, often using a red-tag process to identify items for removal, relocation, or disposal."
+  },
+  {
+    "id": 280,
+    "domain": "continuous_improvement",
+    "front": "In 5S, what does the Sustain (Shitsuke) step require?",
+    "back": "Establishing habits, discipline, and regular audits so that the first four S's (Sort, Set in Order, Shine, Standardize) are maintained over the long term rather than fading after initial implementation."
+  },
+  {
+    "id": 281,
+    "domain": "continuous_improvement",
+    "front": "What is value-stream mapping used for?",
+    "back": "Visually documenting the flow of materials and information required to bring a product or service to the customer, distinguishing value-added steps from non-value-added steps so waste can be targeted for removal."
+  },
+  {
+    "id": 282,
+    "domain": "continuous_improvement",
+    "front": "In value-stream mapping, what is the difference between a current-state map and a future-state map?",
+    "back": "The current-state map documents the process as it actually operates today, while the future-state map depicts the improved, leaner process design the team is working toward."
+  },
+  {
+    "id": 283,
+    "domain": "continuous_improvement",
+    "front": "What is a Kanban system, and what does it control?",
+    "back": "A visual signaling system, often using cards or bins, that controls the pull of materials or work through a process based on actual downstream demand rather than a forecast-driven push."
+  },
+  {
+    "id": 284,
+    "domain": "continuous_improvement",
+    "front": "What is the difference between a push system and a pull system in production?",
+    "back": "A push system schedules production based on forecasts and moves work forward regardless of downstream readiness, while a pull system only produces or moves work when the next process signals a need."
+  },
+  {
+    "id": 285,
+    "domain": "continuous_improvement",
+    "front": "What is visual control (visual management) in a Lean environment?",
+    "back": "The use of visual signals, such as color-coded labels, floor markings, andon lights, and status boards, so the current state of work, materials, and abnormalities can be understood at a glance without asking anyone."
+  },
+  {
+    "id": 286,
+    "domain": "continuous_improvement",
+    "front": "What is an andon system?",
+    "back": "A visual and often audible signaling system, such as a light or alarm, that alerts workers and supervisors immediately when a problem or abnormality occurs on the line."
+  },
+  {
+    "id": 287,
+    "domain": "continuous_improvement",
+    "front": "What are the 8 wastes commonly identified in Lean, using the acronym DOWNTIME?",
+    "back": "Defects, Overproduction, Waiting, Non-utilized talent, Transportation, Inventory, Motion, and Extra processing."
+  },
+  {
+    "id": 288,
+    "domain": "continuous_improvement",
+    "front": "Why is overproduction often considered the most serious of the 8 wastes?",
+    "back": "Because producing more than or before it is needed consumes resources and creates excess inventory, and it can hide or generate several of the other wastes, such as extra storage, transportation, and motion."
+  },
+  {
+    "id": 289,
+    "domain": "continuous_improvement",
+    "front": "Give an example of the 'transportation' waste versus the 'motion' waste in Lean.",
+    "back": "Transportation waste is unnecessary movement of materials or product between locations, while motion waste is unnecessary movement of people, such as reaching, bending, or walking, while doing their work."
+  },
+  {
+    "id": 290,
+    "domain": "continuous_improvement",
+    "front": "What does 'non-utilized talent' refer to as a Lean waste?",
+    "back": "Failing to use employees' skills, knowledge, creativity, or ideas for improvement, such as not asking frontline workers for input on process problems they observe every day."
+  },
+  {
+    "id": 291,
+    "domain": "continuous_improvement",
+    "front": "What is standardized work in a Lean system?",
+    "back": "A documented, agreed-upon method for performing a task that specifies the safest, highest-quality, and most efficient known sequence, work content, and timing, serving as the current baseline for further improvement."
+  },
+  {
+    "id": 292,
+    "domain": "continuous_improvement",
+    "front": "Why is standardized work considered a prerequisite for continuous improvement rather than an obstacle to it?",
+    "back": "Without a documented current standard, there is no stable baseline to measure improvement against, so standardized work provides the starting point that Kaizen efforts then seek to improve."
+  },
+  {
+    "id": 293,
+    "domain": "continuous_improvement",
+    "front": "What is the formula for takt time?",
+    "back": "Takt time equals available production time divided by customer demand (units required) over that same period."
+  },
+  {
+    "id": 294,
+    "domain": "continuous_improvement",
+    "front": "If a plant operates 480 available minutes per day and customer demand is 240 units per day, what is the takt time?",
+    "back": "480 minutes divided by 240 units equals a takt time of 2 minutes per unit."
+  },
+  {
+    "id": 295,
+    "domain": "continuous_improvement",
+    "front": "What is the difference between takt time and cycle time?",
+    "back": "Takt time is the rate at which a product must be completed to match customer demand, while cycle time is the actual time it takes a process or operator to complete one unit of work."
+  },
+  {
+    "id": 296,
+    "domain": "continuous_improvement",
+    "front": "What does SMED stand for, and what is its goal?",
+    "back": "Single-Minute Exchange of Die: a methodology aimed at reducing equipment changeover or setup time, ideally to under ten minutes, to enable smaller batch sizes and greater flexibility."
+  },
+  {
+    "id": 297,
+    "domain": "continuous_improvement",
+    "front": "In SMED, what is the difference between internal setup and external setup?",
+    "back": "Internal setup activities can only be performed while the machine is stopped, while external setup activities can be performed while the machine is still running, and converting internal steps to external steps is a key SMED technique."
+  },
+  {
+    "id": 298,
+    "domain": "continuous_improvement",
+    "front": "What is the formula for Overall Equipment Effectiveness (OEE)?",
+    "back": "OEE equals Availability multiplied by Performance multiplied by Quality."
+  },
+  {
+    "id": 299,
+    "domain": "continuous_improvement",
+    "front": "In the OEE formula, what does the Availability factor measure?",
+    "back": "The percentage of scheduled production time that the equipment was actually running, accounting for downtime losses such as breakdowns and setup or changeover time."
+  },
+  {
+    "id": 300,
+    "domain": "continuous_improvement",
+    "front": "In the OEE formula, what does the Performance factor measure?",
+    "back": "How fast the equipment ran while it was operating, compared to its designed or ideal cycle time, capturing losses from slow cycles and minor stops."
+  },
+  {
+    "id": 301,
+    "domain": "continuous_improvement",
+    "front": "In the OEE formula, what does the Quality factor measure?",
+    "back": "The proportion of good, conforming units produced out of the total units started, capturing losses from defects and rework."
+  },
+  {
+    "id": 302,
+    "domain": "continuous_improvement",
+    "front": "If a machine has 90% Availability, 95% Performance, and 98% Quality, what is its OEE?",
+    "back": "OEE equals 0.90 multiplied by 0.95 multiplied by 0.98, which equals approximately 83.8%."
+  },
+  {
+    "id": 303,
+    "domain": "continuous_improvement",
+    "front": "What is the first step in an effective corrective action process?",
+    "back": "Clearly and accurately identifying and defining the problem, including gathering objective evidence of what actually happened, before jumping to causes or solutions."
+  },
+  {
+    "id": 304,
+    "domain": "continuous_improvement",
+    "front": "What is the purpose of root cause analysis (RCA)?",
+    "back": "To dig beneath the symptoms of a problem to identify the true underlying cause or causes, so corrective action addresses the source of the problem rather than just its immediate effect."
+  },
+  {
+    "id": 305,
+    "domain": "continuous_improvement",
+    "front": "What is the 5 Whys technique?",
+    "back": "A root cause analysis method that repeatedly asks 'why' a problem occurred, typically about five times, with each answer prompting the next why, until the underlying root cause is uncovered."
+  },
+  {
+    "id": 306,
+    "domain": "continuous_improvement",
+    "front": "What is a common pitfall when applying the 5 Whys technique?",
+    "back": "Stopping the analysis too early at a symptom rather than a true root cause, or following only a single causal chain when multiple contributing causes actually exist."
+  },
+  {
+    "id": 307,
+    "domain": "continuous_improvement",
+    "front": "In failure analysis, what is the difference between a symptom and a root cause?",
+    "back": "A symptom is the observable effect or evidence that something went wrong, while the root cause is the fundamental underlying condition or action that, if eliminated, would prevent the problem from recurring."
+  },
+  {
+    "id": 308,
+    "domain": "continuous_improvement",
+    "front": "What does 'recurrence control' mean in the context of corrective action?",
+    "back": "Implementing changes, such as revised procedures, training, or process controls, specifically designed to prevent the identified root cause from causing the same problem again in the future."
+  },
+  {
+    "id": 309,
+    "domain": "continuous_improvement",
+    "front": "Why must corrective action address the root cause rather than just the immediate symptom?",
+    "back": "Because fixing only the symptom leaves the underlying condition in place, allowing the same nonconformance to recur even though the immediate problem appeared to be resolved."
+  },
+  {
+    "id": 310,
+    "domain": "continuous_improvement",
+    "front": "What is meant by 'verification of effectiveness' in a corrective action process?",
+    "back": "Following up after a corrective action has been implemented to confirm, using objective evidence, that the action actually eliminated the root cause and the problem has not recurred."
+  },
+  {
+    "id": 311,
+    "domain": "continuous_improvement",
+    "front": "Why is verification of effectiveness typically performed after a delay rather than immediately after implementing a corrective action?",
+    "back": "Enough time must pass to allow the process to run under normal conditions so that any recurrence of the problem, or a new occurrence over a meaningful production volume, would have a chance to appear."
+  },
+  {
+    "id": 312,
+    "domain": "continuous_improvement",
+    "front": "What is the difference between correction and corrective action?",
+    "back": "A correction fixes the immediate nonconforming item or output, while corrective action addresses the root cause so the same type of nonconformity does not happen again."
+  },
+  {
+    "id": 313,
+    "domain": "continuous_improvement",
+    "front": "What is the purpose of a corrective action request (CAR) or corrective action report?",
+    "back": "A formal, documented record that captures the problem description, root cause investigation, corrective actions taken, responsible parties, timelines, and verification of effectiveness."
+  },
+  {
+    "id": 314,
+    "domain": "continuous_improvement",
+    "front": "What is a poka-yoke?",
+    "back": "A Japanese term for a mistake-proofing device or method built into a process or product design that prevents an error from occurring or immediately detects it before a defect can be produced or passed on."
+  },
+  {
+    "id": 315,
+    "domain": "continuous_improvement",
+    "front": "What is the difference between a prevention-based poka-yoke and a detection-based poka-yoke?",
+    "back": "A prevention-based poka-yoke makes it physically impossible to perform an operation incorrectly, while a detection-based poka-yoke allows the error to occur but immediately signals or stops the process before a defect is produced."
+  },
+  {
+    "id": 316,
+    "domain": "continuous_improvement",
+    "front": "Give an example of a simple poka-yoke device.",
+    "back": "An asymmetrical connector or fixture that can only be inserted or assembled in the one correct orientation, physically preventing an incorrectly oriented assembly."
+  },
+  {
+    "id": 317,
+    "domain": "continuous_improvement",
+    "front": "What is the goal of preventive action, and how does it differ from corrective action?",
+    "back": "Preventive action eliminates the cause of a potential nonconformity before it occurs, while corrective action eliminates the cause of a nonconformity that has already happened."
+  },
+  {
+    "id": 318,
+    "domain": "continuous_improvement",
+    "front": "What is robust design in the context of preventive quality engineering?",
+    "back": "A design approach that makes a product or process performance insensitive to variation in manufacturing conditions, materials, and environmental factors, so quality is achieved by design rather than by inspection or control alone."
+  },
+  {
+    "id": 319,
+    "domain": "continuous_improvement",
+    "front": "Who is most closely associated with the concept of robust design and the loss function it uses?",
+    "back": "Genichi Taguchi, whose quality loss function describes an increasing loss to society as a product characteristic deviates from its target value, even within specification limits."
+  },
+  {
+    "id": 320,
+    "domain": "continuous_improvement",
+    "front": "How does poka-yoke relate to preventive action rather than corrective action?",
+    "back": "Poka-yoke devices are typically installed proactively to eliminate the possibility of an error occurring in the first place, addressing potential problems before any nonconformity has actually happened."
+  },
+  {
+    "id": 321,
+    "domain": "continuous_improvement",
+    "front": "What role does FMEA (Failure Mode and Effects Analysis) play as a preventive action tool?",
+    "back": "FMEA proactively identifies potential failure modes in a design or process, evaluates their severity, occurrence, and detection before they happen, and drives design or process changes to prevent them."
+  },
+  {
+    "id": 322,
+    "domain": "continuous_improvement",
+    "front": "In DMAIC, which phase most directly overlaps with performing a root cause analysis?",
+    "back": "The Analyze phase, where data and process information are examined to identify and validate the true root causes of the problem before improvements are designed."
+  },
+  {
+    "id": 323,
+    "domain": "continuous_improvement",
+    "front": "How can a Pareto chart be used together with a fishbone diagram during root cause analysis?",
+    "back": "The Pareto chart first identifies which defect category or problem occurs most frequently or has the greatest impact, and the fishbone diagram is then used to brainstorm and organize the potential causes of that specific highest-priority problem."
+  },
+  {
+    "id": 324,
+    "domain": "continuous_improvement",
+    "front": "Why is a control chart useful for verifying the effectiveness of a corrective action over time?",
+    "back": "Plotting process data on a control chart after the corrective action lets the team confirm the process remains in statistical control and that the special cause of variation has truly been eliminated, rather than relying on a single after-the-fact check."
+  },
+  {
+    "id": 325,
+    "domain": "continuous_improvement",
+    "front": "How does 5S support preventive action and mistake-proofing on a shop floor?",
+    "back": "By keeping tools, materials, and work areas organized and clearly marked, 5S makes abnormalities and missing or wrong items immediately visible, helping prevent errors before they lead to defects."
+  },
+  {
+    "id": 326,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the difference between discrete and continuous data?",
+    "back": "Discrete data can only take specific, countable values (such as the number of defects on a part), while continuous data can take any value within a range and is limited only by the precision of the measuring instrument (such as a shaft diameter)."
+  },
+  {
+    "id": 327,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the nominal scale of measurement?",
+    "back": "The nominal scale classifies data into named categories with no inherent order or numerical meaning, such as sorting parts by defect type or machine number."
+  },
+  {
+    "id": 328,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the ordinal scale of measurement?",
+    "back": "The ordinal scale ranks data into categories that have a meaningful order, but the intervals between ranks are not necessarily equal, such as rating a surface finish as poor, fair, good, or excellent."
+  },
+  {
+    "id": 329,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the interval scale of measurement?",
+    "back": "The interval scale has ordered categories with equal spacing between values, but no true zero point, so ratios are not meaningful; temperature in degrees Celsius is the classic example."
+  },
+  {
+    "id": 330,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the ratio scale of measurement?",
+    "back": "The ratio scale has ordered values, equal intervals, and a true zero point, so ratios are meaningful; length, mass, and time are ratio scale measurements."
+  },
+  {
+    "id": 331,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Why does it matter which measurement scale a data set uses?",
+    "back": "The measurement scale determines which statistical methods and calculations are valid; for example, calculating a mean is appropriate for interval or ratio data but not for nominal data."
+  },
+  {
+    "id": 332,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Name three common methods of data collection used in quality engineering.",
+    "back": "Common methods include check sheets, automated data logging from measurement equipment, and surveys or structured observation of a process."
+  },
+  {
+    "id": 333,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Why is a well-designed check sheet important for data collection?",
+    "back": "A well-designed check sheet standardizes how data is recorded, reducing transcription errors and making it easier to spot patterns such as which defect type occurs most often."
+  },
+  {
+    "id": 334,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is meant by data integrity?",
+    "back": "Data integrity means the data is complete, accurate, consistent, and has not been altered or corrupted from the point of collection through storage and reporting."
+  },
+  {
+    "id": 335,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is a common threat to data accuracy at the point of collection?",
+    "back": "Measurement error from an uncalibrated gauge, operator bias, or manual transcription mistakes are common threats that reduce data accuracy before analysis ever begins."
+  },
+  {
+    "id": 336,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the purpose of a dashboard in a quality management context?",
+    "back": "A dashboard presents key metrics visually and in near real time so decision makers can quickly assess process performance and identify areas needing attention."
+  },
+  {
+    "id": 337,
+    "domain": "quantitative_methods_and_tools",
+    "front": "How is the arithmetic mean calculated?",
+    "back": "The mean is calculated by summing all values in a data set and dividing by the number of values: x\u0304 = (\u03a3x\u1d62) \u00f7 n."
+  },
+  {
+    "id": 338,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the median of a data set?",
+    "back": "The median is the middle value when the data is arranged in ascending order; for an even number of values it is the average of the two middle values."
+  },
+  {
+    "id": 339,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the mode of a data set?",
+    "back": "The mode is the value that occurs most frequently in a data set; a data set can have one mode, more than one mode, or no mode at all."
+  },
+  {
+    "id": 340,
+    "domain": "quantitative_methods_and_tools",
+    "front": "How is the range of a data set calculated?",
+    "back": "The range is calculated by subtracting the smallest value in the data set from the largest value: R = x\u2098\u2090\u2093 \u2212 x\u2098\u1d62\u2099."
+  },
+  {
+    "id": 341,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the formula for sample variance?",
+    "back": "Sample variance is s\u00b2 = \u03a3(x\u1d62 \u2212 x\u0304)\u00b2 \u00f7 (n \u2212 1), which measures the average squared deviation of each value from the sample mean using n \u2212 1 degrees of freedom."
+  },
+  {
+    "id": 342,
+    "domain": "quantitative_methods_and_tools",
+    "front": "How is sample standard deviation related to sample variance?",
+    "back": "Sample standard deviation, s, is the positive square root of the sample variance, s\u00b2, and expresses dispersion in the same units as the original data."
+  },
+  {
+    "id": 343,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Why is n \u2212 1 used in the denominator of the sample variance formula instead of n?",
+    "back": "Using n \u2212 1 corrects for the bias that occurs because the sample mean is estimated from the same data, and it produces an unbiased estimator of the true population variance."
+  },
+  {
+    "id": 344,
+    "domain": "quantitative_methods_and_tools",
+    "front": "State the Central Limit Theorem.",
+    "back": "The Central Limit Theorem states that as sample size increases, the distribution of sample means approaches a normal distribution regardless of the shape of the underlying population distribution."
+  },
+  {
+    "id": 345,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Why is the Central Limit Theorem important in quality engineering?",
+    "back": "It justifies the use of normal-distribution-based control limits and hypothesis tests on sample averages even when the individual process measurements are not normally distributed."
+  },
+  {
+    "id": 346,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is a frequency distribution?",
+    "back": "A frequency distribution is a summary that shows how often each value or range of values occurs in a data set, often displayed as a table or a histogram."
+  },
+  {
+    "id": 347,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What does the shape of a frequency distribution reveal about a process?",
+    "back": "The shape can reveal whether a process is centered, symmetric, skewed, bimodal, or truncated, which provides clues about the underlying process behavior or measurement issues."
+  },
+  {
+    "id": 348,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Define population in statistical terms.",
+    "back": "A population is the entire set of items, measurements, or observations of interest that a study is intended to describe or draw conclusions about."
+  },
+  {
+    "id": 349,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Define parameter in statistical terms.",
+    "back": "A parameter is a numerical value that describes a characteristic of an entire population, such as the population mean \u03bc or population standard deviation \u03c3."
+  },
+  {
+    "id": 350,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Define sample in statistical terms.",
+    "back": "A sample is a subset of individuals or observations selected from a population, used to make inferences about that population without measuring every item."
+  },
+  {
+    "id": 351,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Define statistic in statistical terms.",
+    "back": "A statistic is a numerical value calculated from sample data, such as the sample mean x\u0304 or sample standard deviation s, used to estimate a population parameter."
+  },
+  {
+    "id": 352,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is expected value in probability?",
+    "back": "Expected value is the long-run average outcome of a random variable, calculated as the sum of each possible value multiplied by its probability of occurring."
+  },
+  {
+    "id": 353,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What does it mean for two events to be independent?",
+    "back": "Two events are independent if the occurrence of one event has no effect on the probability of the other event occurring, so P(A and B) = P(A) \u00d7 P(B)."
+  },
+  {
+    "id": 354,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What does it mean for two events to be mutually exclusive?",
+    "back": "Two events are mutually exclusive if they cannot both occur at the same time, meaning P(A and B) = 0."
+  },
+  {
+    "id": 355,
+    "domain": "quantitative_methods_and_tools",
+    "front": "State the multiplication rule for two independent events.",
+    "back": "For independent events, the probability that both occur is P(A and B) = P(A) \u00d7 P(B)."
+  },
+  {
+    "id": 356,
+    "domain": "quantitative_methods_and_tools",
+    "front": "State the addition rule for two mutually exclusive events.",
+    "back": "For mutually exclusive events, the probability that either event occurs is P(A or B) = P(A) + P(B)."
+  },
+  {
+    "id": 357,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is complementary probability?",
+    "back": "Complementary probability is the probability that an event does not occur; if P(A) is the probability of event A, the complement is P(A\u2032) = 1 \u2212 P(A)."
+  },
+  {
+    "id": 358,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What are the key characteristics of the normal distribution?",
+    "back": "The normal distribution is a continuous, symmetric, bell-shaped distribution defined by its mean \u03bc and standard deviation \u03c3, with the mean, median, and mode all equal."
+  },
+  {
+    "id": 359,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What are the characteristics of the uniform distribution?",
+    "back": "The uniform distribution is a continuous distribution in which every value within a defined interval has an equal probability of occurring, producing a flat, rectangular probability curve."
+  },
+  {
+    "id": 360,
+    "domain": "quantitative_methods_and_tools",
+    "front": "When is the exponential distribution typically used in reliability engineering?",
+    "back": "The exponential distribution is used to model the time between events, such as time to failure, when the failure rate is constant over time and there is no wear-out effect."
+  },
+  {
+    "id": 361,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the lognormal distribution?",
+    "back": "The lognormal distribution describes a continuous variable whose logarithm follows a normal distribution, and it is often used to model right-skewed data such as time-to-repair or particle size."
+  },
+  {
+    "id": 362,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What makes the Weibull distribution useful in reliability analysis?",
+    "back": "The Weibull distribution is flexible because its shape parameter can model increasing, decreasing, or constant failure rates, making it suitable for describing the full bathtub curve of product life."
+  },
+  {
+    "id": 363,
+    "domain": "quantitative_methods_and_tools",
+    "front": "When is the Student's t distribution used instead of the normal distribution?",
+    "back": "The t distribution is used when the population standard deviation is unknown and must be estimated from a small sample, producing wider, flatter tails than the normal distribution."
+  },
+  {
+    "id": 364,
+    "domain": "quantitative_methods_and_tools",
+    "front": "When is the F distribution used?",
+    "back": "The F distribution is used to compare the variances of two populations, such as in an F-test, and it forms the basis for the ANOVA test statistic."
+  },
+  {
+    "id": 365,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What are the conditions for a binomial distribution to apply?",
+    "back": "A binomial distribution applies when there are a fixed number of independent trials, each trial has only two possible outcomes, and the probability of success stays constant across trials."
+  },
+  {
+    "id": 366,
+    "domain": "quantitative_methods_and_tools",
+    "front": "When is the Poisson distribution used in quality engineering?",
+    "back": "The Poisson distribution is used to model the number of rare, independent events occurring in a fixed interval of time or space, such as the number of defects per unit area."
+  },
+  {
+    "id": 367,
+    "domain": "quantitative_methods_and_tools",
+    "front": "How does the hypergeometric distribution differ from the binomial distribution?",
+    "back": "The hypergeometric distribution applies to sampling without replacement from a finite population, so the probability of success changes with each draw, unlike the binomial distribution's fixed probability."
+  },
+  {
+    "id": 368,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What does the multinomial distribution model?",
+    "back": "The multinomial distribution generalizes the binomial distribution to situations with more than two possible outcomes per trial, tracking the probability of each outcome category occurring a specific number of times."
+  },
+  {
+    "id": 369,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is a point estimate?",
+    "back": "A point estimate is a single value, such as the sample mean x\u0304, calculated from sample data to estimate an unknown population parameter."
+  },
+  {
+    "id": 370,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is a confidence interval?",
+    "back": "A confidence interval is a range of values, calculated from sample data, that is likely to contain the true population parameter at a stated level of confidence, such as 95%."
+  },
+  {
+    "id": 371,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What happens to a confidence interval's width as the confidence level increases?",
+    "back": "As the confidence level increases, such as from 90% to 99%, the confidence interval becomes wider because more certainty requires a larger range of plausible values."
+  },
+  {
+    "id": 372,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is a Type I error in hypothesis testing?",
+    "back": "A Type I error occurs when a true null hypothesis is incorrectly rejected, meaning the test concludes there is an effect or difference when none actually exists."
+  },
+  {
+    "id": 373,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is a Type II error in hypothesis testing?",
+    "back": "A Type II error occurs when a false null hypothesis is not rejected, meaning the test fails to detect an effect or difference that actually exists."
+  },
+  {
+    "id": 374,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the significance level, alpha, in hypothesis testing?",
+    "back": "The significance level, alpha, is the probability of committing a Type I error that the analyst is willing to accept, commonly set at 0.05."
+  },
+  {
+    "id": 375,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the power of a hypothesis test?",
+    "back": "The power of a test is the probability of correctly rejecting a false null hypothesis, calculated as 1 minus the probability of a Type II error (1 \u2212 \u03b2)."
+  },
+  {
+    "id": 376,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the purpose of a paired-comparison test?",
+    "back": "A paired-comparison test compares two related sets of measurements taken on the same subjects or units, such as before-and-after data, to determine if a significant difference exists while controlling for individual variability."
+  },
+  {
+    "id": 377,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What does a chi-square goodness-of-fit test evaluate?",
+    "back": "A chi-square goodness-of-fit test evaluates whether an observed frequency distribution significantly differs from a theoretical or expected distribution."
+  },
+  {
+    "id": 378,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the purpose of Analysis of Variance (ANOVA)?",
+    "back": "ANOVA tests whether there is a statistically significant difference among the means of three or more groups by comparing the variation between groups to the variation within groups."
+  },
+  {
+    "id": 379,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is a contingency table used for?",
+    "back": "A contingency table displays the frequency counts of two or more categorical variables, allowing a chi-square test of independence to determine whether the variables are related."
+  },
+  {
+    "id": 380,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the goal of simple linear regression, and what does the correlation coefficient measure?",
+    "back": "Simple linear regression fits a line \u0177 = b\u2080 + b\u2081x to model how a dependent variable y changes with an independent variable x, while the correlation coefficient, r, measures the strength and direction of their linear relationship, ranging from \u22121 to +1; time-series analysis extends this idea by examining data collected sequentially over time to detect trends, seasonality, and shifts for forecasting."
+  },
+  {
+    "id": 381,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the primary objective of statistical process control (SPC)?",
+    "back": "To monitor a process over time using data so that variation can be distinguished as common cause or special cause, allowing timely action to keep the process stable and predictable."
+  },
+  {
+    "id": 382,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Name two direct benefits of implementing SPC on a production line.",
+    "back": "Early detection of process shifts before defective product is made in large quantities, and a factual basis for distinguishing when to adjust a process versus when to leave it alone."
+  },
+  {
+    "id": 383,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is a common cause of variation?",
+    "back": "A source of variation that is inherent to the process itself, affects all output, and is present at all times; it produces a stable, predictable pattern on a control chart."
+  },
+  {
+    "id": 384,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is a special cause of variation?",
+    "back": "An assignable, intermittent source of variation not normally part of the process, such as a tool breaking or a new operator, which produces an unpredictable pattern and signals on a control chart."
+  },
+  {
+    "id": 385,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Who is normally responsible for removing common cause variation, and who is responsible for special cause variation?",
+    "back": "Management or process owners must change the system to reduce common cause variation, while operators or local personnel typically identify and remove special causes."
+  },
+  {
+    "id": 386,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What happens if an operator adjusts a process that is only exhibiting common cause variation?",
+    "back": "The adjustment adds unnecessary variation to the process, a phenomenon known as tampering or overcontrol, which increases total process variation rather than reducing it."
+  },
+  {
+    "id": 387,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Define rational subgrouping.",
+    "back": "Selecting samples for a subgroup so that variation within the subgroup reflects only common cause variation, while variation between subgroups can reveal special causes."
+  },
+  {
+    "id": 388,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Why should items in a rational subgroup be produced close together in time?",
+    "back": "So that within-subgroup variation captures only the inherent short-term process variation, making it a valid estimate of common cause variation for calculating control limits."
+  },
+  {
+    "id": 389,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What subgrouping mistake causes a control chart to have artificially wide control limits?",
+    "back": "Mixing output from different shifts, machines, or lots within the same subgroup, which inflates within-subgroup variation and can mask real special causes."
+  },
+  {
+    "id": 390,
+    "domain": "quantitative_methods_and_tools",
+    "front": "When should an X-bar and R chart be used instead of an X-bar and s chart?",
+    "back": "X-bar and R charts are typically used for smaller subgroup sizes (n \u2264 10), where the range is a simple and adequately efficient estimator of variation."
+  },
+  {
+    "id": 391,
+    "domain": "quantitative_methods_and_tools",
+    "front": "When is an X-bar and s chart preferred over an X-bar and R chart?",
+    "back": "For larger subgroup sizes (n > 10), because the standard deviation becomes a more statistically efficient estimator of variation than the range as subgroup size grows."
+  },
+  {
+    "id": 392,
+    "domain": "quantitative_methods_and_tools",
+    "front": "When should an individuals and moving range (I-MR) chart be used?",
+    "back": "When only one measurement per time period is available, such as low-volume production, destructive testing, or chemical batch processes where subgrouping is impractical."
+  },
+  {
+    "id": 393,
+    "domain": "quantitative_methods_and_tools",
+    "front": "How is the moving range calculated on an I-MR chart?",
+    "back": "As the absolute difference between two consecutive individual observations, MR = |x_i minus x_(i-1)|."
+  },
+  {
+    "id": 394,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the purpose of a moving average and moving range (MA-MR) chart?",
+    "back": "To smooth out noise in individual observations by averaging a fixed number of consecutive readings, making gradual trends or small shifts easier to detect than on an I-MR chart."
+  },
+  {
+    "id": 395,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What type of data does a p chart monitor?",
+    "back": "The proportion of nonconforming (defective) units in a subgroup, where subgroup size may vary from sample to sample."
+  },
+  {
+    "id": 396,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What type of data does an np chart monitor, and what constraint does it have that a p chart does not?",
+    "back": "The np chart monitors the number (count) of nonconforming units per subgroup, and it requires a constant subgroup size, unlike the p chart."
+  },
+  {
+    "id": 397,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What type of data does a c chart monitor?",
+    "back": "The count of nonconformities (defects) per unit or inspection area, when the sample size or inspection unit is constant."
+  },
+  {
+    "id": 398,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What type of data does a u chart monitor, and how does it differ from a c chart?",
+    "back": "The u chart monitors the average number of nonconformities per unit, and unlike the c chart it allows the sample size (number of units inspected) to vary between subgroups."
+  },
+  {
+    "id": 399,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the key distinction between a defect and a defective (nonconforming unit)?",
+    "back": "A defective unit fails to meet one or more specifications and may contain multiple defects, while a defect is a single nonconformity; c and u charts count defects, while p and np charts count defective units."
+  },
+  {
+    "id": 400,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Which control charts are classified as variables charts, and which are attributes charts?",
+    "back": "X-bar/R, X-bar/s, I-MR, and MA-MR are variables charts for continuous measurements; p, np, c, and u are attributes charts for count or proportion data."
+  },
+  {
+    "id": 401,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What Western Electric zone rule flags a single point out of control?",
+    "back": "One point falling beyond Zone A, meaning beyond 3 standard deviations from the center line (outside the control limits)."
+  },
+  {
+    "id": 402,
+    "domain": "quantitative_methods_and_tools",
+    "front": "State the Western Electric zone rule involving 2 out of 3 consecutive points.",
+    "back": "Two out of three consecutive points fall in Zone A or beyond, on the same side of the center line, signaling a possible process shift."
+  },
+  {
+    "id": 403,
+    "domain": "quantitative_methods_and_tools",
+    "front": "State the Western Electric zone rule involving 4 out of 5 consecutive points.",
+    "back": "Four out of five consecutive points fall in Zone B or beyond, on the same side of the center line, indicating a possible small process shift."
+  },
+  {
+    "id": 404,
+    "domain": "quantitative_methods_and_tools",
+    "front": "State the Western Electric zone rule involving 8 consecutive points.",
+    "back": "Eight consecutive points fall on the same side of the center line, indicating a sustained shift in the process average even though no single point is out of control."
+  },
+  {
+    "id": 405,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is a run on a control chart, and how many consecutive points on one side of the center line is commonly used as an out-of-control signal?",
+    "back": "A run is a series of consecutive points on the same side of the center line; a run of 7 or 8 consecutive points is a commonly used signal of a process shift."
+  },
+  {
+    "id": 406,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What does a trend on a control chart look like, and how many consecutive increasing or decreasing points typically signals one?",
+    "back": "A trend is a series of consecutive points steadily increasing or decreasing; 6 or 7 consecutive points moving in one direction is a commonly used signal of a trend."
+  },
+  {
+    "id": 407,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is a full factorial design?",
+    "back": "An experimental design that tests every possible combination of the levels of all factors, allowing estimation of all main effects and all interaction effects."
+  },
+  {
+    "id": 408,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is a fractional factorial design, and why is it used?",
+    "back": "A design that tests only a carefully chosen fraction of the full factorial's combinations, used to reduce the number of runs needed when there are many factors, at the cost of confounding some higher-order interactions with other effects."
+  },
+  {
+    "id": 409,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is short-run SPC used for?",
+    "back": "Applying control charting to processes with small lot sizes or frequent product changeovers, where a traditional chart could never accumulate enough points on one part number."
+  },
+  {
+    "id": 410,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is a nominal chart (target chart) in short-run SPC?",
+    "back": "A chart that plots the deviation of each measurement from a part-specific target or nominal value, allowing data from several different part numbers to be plotted on one chart."
+  },
+  {
+    "id": 411,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is a Z chart (standardized chart) used for in short-run SPC?",
+    "back": "It plots data converted to a standardized scale, such as (x minus target) divided by standard deviation, so that parts with different targets and different variation can share one chart with common control limits."
+  },
+  {
+    "id": 412,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the goal of a process capability study?",
+    "back": "To determine whether a process that is in statistical control can consistently produce output that meets specification limits."
+  },
+  {
+    "id": 413,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Why must a process be in statistical control before a capability study is meaningful?",
+    "back": "Capability indices assume a stable, predictable distribution; if special causes are present, the estimated spread and center are unreliable and the capability index does not represent future performance."
+  },
+  {
+    "id": 414,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Define the natural process limits (also called natural tolerance limits).",
+    "back": "The limits within which a stable process naturally varies, typically calculated as the process mean \u00b1 3 standard deviations, based on the process's own inherent variation."
+  },
+  {
+    "id": 415,
+    "domain": "quantitative_methods_and_tools",
+    "front": "How do natural process limits differ from specification limits?",
+    "back": "Natural limits are derived from the process's actual statistical behavior (voice of the process), while specification limits are set by engineering or customer requirements (voice of the customer); the two need not coincide."
+  },
+  {
+    "id": 416,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What does it mean if the natural process limits fall entirely within the specification limits?",
+    "back": "The process is capable of meeting specifications as long as it remains centered and in statistical control."
+  },
+  {
+    "id": 417,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Define DPMO.",
+    "back": "Defects Per Million Opportunities, calculated as (number of defects \u00f7 (number of units \u00d7 opportunities per unit)) \u00d7 1,000,000."
+  },
+  {
+    "id": 418,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Define PPM in a quality context.",
+    "back": "Parts Per Million, the number of nonconforming or defective parts expected per one million parts produced, calculated as (defective units \u00f7 total units) \u00d7 1,000,000."
+  },
+  {
+    "id": 419,
+    "domain": "quantitative_methods_and_tools",
+    "front": "State the formula for Cp.",
+    "back": "Cp = (USL minus LSL) \u00f7 (6 \u00d7 \u03c3), where \u03c3 is the process standard deviation; Cp compares process spread to specification width but ignores centering."
+  },
+  {
+    "id": 420,
+    "domain": "quantitative_methods_and_tools",
+    "front": "State the formula for Cpk.",
+    "back": "Cpk = minimum of [(USL minus \u03bc) \u00f7 (3\u03c3), (\u03bc minus LSL) \u00f7 (3\u03c3)], which accounts for how centered the process is between the specification limits."
+  },
+  {
+    "id": 421,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What does it mean if Cp is much larger than Cpk?",
+    "back": "The process has enough spread capability to meet the specification, but it is not centered between the specification limits, so some output is closer to one limit than the other."
+  },
+  {
+    "id": 422,
+    "domain": "quantitative_methods_and_tools",
+    "front": "State the formula for Cpm and explain what it accounts for that Cp does not.",
+    "back": "Cpm = (USL minus LSL) \u00f7 (6 \u00d7 \u221a(\u03c3\u00b2 + (\u03bc minus T)\u00b2)), where T is the target value; Cpm penalizes deviation of the process mean from a specific target, not just from the specification midpoint."
+  },
+  {
+    "id": 423,
+    "domain": "quantitative_methods_and_tools",
+    "front": "State the formula for Cr and explain how it relates to Cp.",
+    "back": "Cr = 1 \u00f7 Cp = (6\u03c3) \u00f7 (USL minus LSL); Cr is the capability ratio, the percentage of the specification width consumed by process spread, and a smaller Cr indicates better capability."
+  },
+  {
+    "id": 424,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is the key difference between Cp/Cpk and Pp/Ppk?",
+    "back": "Cp/Cpk use short-term (within-subgroup) estimates of standard deviation assuming statistical control, while Pp/Ppk use the overall (long-term) sample standard deviation across all data, capturing both common and special cause variation."
+  },
+  {
+    "id": 425,
+    "domain": "quantitative_methods_and_tools",
+    "front": "State the formula for Ppk.",
+    "back": "Ppk = minimum of [(USL minus x\u0304) \u00f7 (3s_overall), (x\u0304 minus LSL) \u00f7 (3s_overall)], using the overall sample standard deviation rather than the within-subgroup estimate."
+  },
+  {
+    "id": 426,
+    "domain": "quantitative_methods_and_tools",
+    "front": "If Pp is noticeably lower than Cp for the same data set, what does that suggest?",
+    "back": "It suggests the process has special cause variation or instability over time, since the overall (long-term) variation used in Pp is larger than the within-subgroup (short-term) variation used in Cp."
+  },
+  {
+    "id": 427,
+    "domain": "quantitative_methods_and_tools",
+    "front": "In DOE terminology, what is a factor?",
+    "back": "An independent variable that is deliberately controlled and varied by the experimenter to study its effect on the response."
+  },
+  {
+    "id": 428,
+    "domain": "quantitative_methods_and_tools",
+    "front": "In DOE terminology, what is a level?",
+    "back": "A specific value or setting assigned to a factor during an experimental run, such as \"low\" and \"high\" settings in a two-level design."
+  },
+  {
+    "id": 429,
+    "domain": "quantitative_methods_and_tools",
+    "front": "In DOE terminology, what is the response?",
+    "back": "The measured output or dependent variable of the experiment, the characteristic whose behavior the experimenter is trying to explain or optimize."
+  },
+  {
+    "id": 430,
+    "domain": "quantitative_methods_and_tools",
+    "front": "In DOE terminology, what is a treatment (treatment combination)?",
+    "back": "A specific combination of factor levels applied together in a single experimental run."
+  },
+  {
+    "id": 431,
+    "domain": "quantitative_methods_and_tools",
+    "front": "In DOE terminology, what is experimental error?",
+    "back": "The variation in the response that cannot be attributed to the factors being studied, arising from uncontrolled variables, measurement variation, or random noise."
+  },
+  {
+    "id": 432,
+    "domain": "quantitative_methods_and_tools",
+    "front": "In DOE terminology, what is replication?",
+    "back": "Performing the same treatment combination more than once as independent runs, which allows estimation of experimental error and increases the precision of effect estimates."
+  },
+  {
+    "id": 433,
+    "domain": "quantitative_methods_and_tools",
+    "front": "Why is randomization important in designing an experiment?",
+    "back": "Randomizing the order of experimental runs helps prevent uncontrolled variables, such as time-related drift or warm-up effects, from biasing the estimated factor effects."
+  },
+  {
+    "id": 434,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is blocking in experimental design, and why is it used?",
+    "back": "Blocking groups experimental runs by a known nuisance variable, such as a batch of raw material or a shift, so that its effect can be removed from the comparison of factor effects rather than adding noise to them."
+  },
+  {
+    "id": 435,
+    "domain": "quantitative_methods_and_tools",
+    "front": "What is confounding in a fractional factorial design?",
+    "back": "When the effect of one factor or interaction cannot be distinguished from the effect of another because their patterns of high and low settings are identical across all runs in the reduced design."
+  },
+  {
+    "id": 436,
+    "domain": "risk_management",
+    "front": "In quality risk management, how is risk defined?",
+    "back": "Risk is the combination of the probability of occurrence of harm and the severity of that harm, meaning it reflects both how likely a problem is and how bad the consequence would be if it happened."
+  },
+  {
+    "id": 437,
+    "domain": "risk_management",
+    "front": "What is risk management?",
+    "back": "Risk management is the coordinated set of activities used to identify, assess, evaluate, treat, monitor, and communicate risk throughout a product, process, or organization's life cycle."
+  },
+  {
+    "id": 438,
+    "domain": "risk_management",
+    "front": "What does severity measure in a risk analysis?",
+    "back": "Severity measures how serious the consequence or impact of a potential failure would be if it occurred, rated on a numeric scale where a higher number means a more serious outcome."
+  },
+  {
+    "id": 439,
+    "domain": "risk_management",
+    "front": "What does occurrence measure in a risk analysis?",
+    "back": "Occurrence measures the likelihood or frequency that a specific cause of failure will actually happen, rated on a numeric scale where a higher number means the cause is more likely to occur."
+  },
+  {
+    "id": 440,
+    "domain": "risk_management",
+    "front": "What does detection measure in a risk analysis, and how is its scale different from severity and occurrence?",
+    "back": "Detection measures how likely current controls are to catch a failure before it reaches the customer. Its scale is inverted from the other two ratings: a higher detection number means the failure is harder to detect, which makes the risk worse."
+  },
+  {
+    "id": 441,
+    "domain": "risk_management",
+    "front": "What is risk-based thinking as used in quality management systems such as ISO 9001?",
+    "back": "Risk-based thinking is the practice of proactively identifying and addressing risks and opportunities throughout planning and operations, rather than only reacting after nonconformances occur, so that preventive action is built into the management system itself."
+  },
+  {
+    "id": 442,
+    "domain": "risk_management",
+    "front": "What is enterprise risk management (ERM)?",
+    "back": "Enterprise risk management is an organization-wide framework for identifying, assessing, and managing risks across all business functions, including financial, strategic, operational, and compliance risks, so leadership can make coordinated decisions."
+  },
+  {
+    "id": 443,
+    "domain": "risk_management",
+    "front": "What is operational risk management?",
+    "back": "Operational risk management focuses on risks arising from day-to-day processes, systems, people, and external events, such as equipment failure, supply chain disruption, or human error, that could interrupt normal operations."
+  },
+  {
+    "id": 444,
+    "domain": "risk_management",
+    "front": "What is product risk management?",
+    "back": "Product risk management focuses specifically on risks associated with a product's design, manufacture, and use, aiming to identify hazards that could cause harm to the end user or reduce product performance."
+  },
+  {
+    "id": 445,
+    "domain": "risk_management",
+    "front": "How does enterprise risk management differ in scope from product risk management?",
+    "back": "Enterprise risk management addresses risk across the whole organization, including financial and strategic exposure, while product risk management is narrowly focused on hazards tied to a specific product's design and use."
+  },
+  {
+    "id": 446,
+    "domain": "risk_management",
+    "front": "What is strategic risk in the context of enterprise risk management?",
+    "back": "Strategic risk is the risk that an organization's business decisions, such as entering a new market or launching a new technology, will fail to achieve their intended objectives and harm the organization's competitive position."
+  },
+  {
+    "id": 447,
+    "domain": "risk_management",
+    "front": "What does the scope section of a risk management plan define?",
+    "back": "The scope section defines which product, process, or system the risk management activities apply to, including the boundaries of what is and is not covered by the plan."
+  },
+  {
+    "id": 448,
+    "domain": "risk_management",
+    "front": "Why must a risk management plan assign roles and responsibilities?",
+    "back": "Assigning roles and responsibilities ensures that specific people are accountable for identifying risks, performing analyses, approving acceptability decisions, and implementing and verifying risk controls, preventing tasks from being overlooked."
+  },
+  {
+    "id": 449,
+    "domain": "risk_management",
+    "front": "Why must a risk management plan document acceptability criteria before analysis begins?",
+    "back": "Defining acceptability criteria in advance ensures that risk decisions are made consistently and objectively against a pre-agreed standard, rather than being adjusted after results are known to justify a preferred outcome."
+  },
+  {
+    "id": 450,
+    "domain": "risk_management",
+    "front": "What role do verification activities play in a risk management plan?",
+    "back": "Verification activities confirm that implemented risk controls actually work as intended and that residual risk has been reduced to the level predicted in the risk analysis."
+  },
+  {
+    "id": 451,
+    "domain": "risk_management",
+    "front": "Why does a risk management plan include a requirement to review production and post-production information?",
+    "back": "Reviewing production and post-production information, such as complaints and field failures, allows the organization to detect new or previously unrecognized risks and confirm that earlier risk assumptions still hold true."
+  },
+  {
+    "id": 452,
+    "domain": "risk_management",
+    "front": "What is FMEA and why is it used as a risk management tool?",
+    "back": "Failure Mode and Effects Analysis is a structured method for identifying potential failure modes in a design or process, their effects, and their causes, then rating each one by severity, occurrence, and detection to prioritize which risks need action."
+  },
+  {
+    "id": 453,
+    "domain": "risk_management",
+    "front": "What is fault tree analysis (FTA) and how does it differ from FMEA?",
+    "back": "Fault tree analysis works backward from a specific undesired top-level event, using a logic diagram of AND and OR gates to trace the combinations of causes that could lead to it, whereas FMEA works forward from individual failure modes to their effects."
+  },
+  {
+    "id": 454,
+    "domain": "risk_management",
+    "front": "What is HACCP and in what context is it typically applied?",
+    "back": "Hazard Analysis and Critical Control Points is a risk assessment method, most commonly used in food safety, that identifies critical control points in a process where hazards can be prevented, eliminated, or reduced to an acceptable level."
+  },
+  {
+    "id": 455,
+    "domain": "risk_management",
+    "front": "What is HAZOP and what type of risks is it designed to find?",
+    "back": "Hazard and Operability Study is a structured, team-based technique that systematically examines a process using guide words like more, less, and reverse to identify deviations from design intent that could create operability or safety hazards."
+  },
+  {
+    "id": 456,
+    "domain": "risk_management",
+    "front": "What is the primary purpose of using FMEA as a risk assessment tool?",
+    "back": "The primary purpose of FMEA is to proactively identify potential failure modes before they occur and prioritize corrective action based on their combined severity, occurrence, and detection ratings, rather than waiting for failures to happen."
+  },
+  {
+    "id": 457,
+    "domain": "risk_management",
+    "front": "What is the difference between a Design FMEA (DFMEA) and a Process FMEA (PFMEA)?",
+    "back": "A Design FMEA analyzes potential failure modes caused by weaknesses in the product design itself, while a Process FMEA analyzes potential failure modes that could occur during manufacturing or assembly of that design."
+  },
+  {
+    "id": 458,
+    "domain": "risk_management",
+    "front": "What is a risk matrix?",
+    "back": "A risk matrix is a visual tool, typically a grid, that plots the severity of a potential harm against its likelihood of occurrence to classify risks into priority zones for decision making."
+  },
+  {
+    "id": 459,
+    "domain": "risk_management",
+    "front": "What two variables are typically plotted on the axes of a risk matrix?",
+    "back": "A risk matrix typically plots severity (consequence) on one axis and probability or likelihood of occurrence on the other axis."
+  },
+  {
+    "id": 460,
+    "domain": "risk_management",
+    "front": "What do the color zones on a typical risk matrix represent?",
+    "back": "Color zones, commonly green, yellow, and red, represent increasing levels of risk priority: green usually means acceptable, yellow means requires review or monitoring, and red means unacceptable and requires immediate action."
+  },
+  {
+    "id": 461,
+    "domain": "risk_management",
+    "front": "How does a risk matrix support decision making in a quality system?",
+    "back": "A risk matrix gives teams a quick, consistent visual reference for deciding which risks require immediate mitigation, which need ongoing monitoring, and which can be accepted as is, without needing a full numeric calculation for every decision."
+  },
+  {
+    "id": 462,
+    "domain": "risk_management",
+    "front": "How does a qualitative risk matrix differ from a quantitative tool like RPN?",
+    "back": "A qualitative risk matrix classifies risk using descriptive categories, such as low, medium, and high, based on a two-factor grid, while RPN produces a specific numeric score by multiplying three separate rated factors together."
+  },
+  {
+    "id": 463,
+    "domain": "risk_management",
+    "front": "What is the formula for Risk Priority Number (RPN)?",
+    "back": "RPN = Severity \u00d7 Occurrence \u00d7 Detection, where each factor is typically rated on a scale of 1 to 10, giving a possible RPN range of 1 to 1000."
+  },
+  {
+    "id": 464,
+    "domain": "risk_management",
+    "front": "Calculate the RPN for a failure mode rated Severity 8, Occurrence 3, Detection 2.",
+    "back": "RPN = 8 \u00d7 3 \u00d7 2 = 48."
+  },
+  {
+    "id": 465,
+    "domain": "risk_management",
+    "front": "Calculate the RPN for a failure mode rated Severity 5, Occurrence 5, Detection 5.",
+    "back": "RPN = 5 \u00d7 5 \u00d7 5 = 125."
+  },
+  {
+    "id": 466,
+    "domain": "risk_management",
+    "front": "In an FMEA, which failure modes should generally receive the highest priority for corrective action?",
+    "back": "Failure modes with the highest RPN values should generally receive the highest priority, since a high RPN reflects a combination of severe consequence, likely occurrence, and poor detectability."
+  },
+  {
+    "id": 467,
+    "domain": "risk_management",
+    "front": "What is a key limitation of relying only on RPN to prioritize risk?",
+    "back": "RPN can mask a high-severity, low-frequency failure because a low occurrence or detection score can pull the overall product down, so many organizations also review severity independently or set a rule that any high-severity item gets attention regardless of RPN."
+  },
+  {
+    "id": 468,
+    "domain": "risk_management",
+    "front": "A team rates a failure mode Severity 9, Occurrence 4, Detection 6, and the team's action threshold is any RPN above 100. Does this failure mode require action, and why?",
+    "back": "Yes. RPN = 9 \u00d7 4 \u00d7 6 = 216, which exceeds the threshold of 100, so the failure mode requires corrective action."
+  },
+  {
+    "id": 469,
+    "domain": "risk_management",
+    "front": "What does ALARP stand for in risk acceptability, and what principle does it describe?",
+    "back": "ALARP stands for As Low As Reasonably Practicable. It describes the principle that risk should be reduced until the cost, time, or effort of further reduction becomes grossly disproportionate to the additional risk reduction gained."
+  },
+  {
+    "id": 470,
+    "domain": "risk_management",
+    "front": "What is the broadly acceptable region in a risk acceptability framework?",
+    "back": "The broadly acceptable region contains risks so low that no further reduction effort is generally required, and the risk can be accepted without additional justification."
+  },
+  {
+    "id": 471,
+    "domain": "risk_management",
+    "front": "What is the unacceptable region in a risk acceptability framework?",
+    "back": "The unacceptable region contains risks that are too high to tolerate under any circumstances, meaning the activity or design must be changed or the product cannot be released until the risk is reduced."
+  },
+  {
+    "id": 472,
+    "domain": "risk_management",
+    "front": "Who is typically responsible for defining acceptability criteria for a given product or process?",
+    "back": "Acceptability criteria are typically defined by organizational management or a cross-functional team with quality, engineering, and regulatory input, and should reflect applicable standards, regulations, and stakeholder expectations."
+  },
+  {
+    "id": 473,
+    "domain": "risk_management",
+    "front": "How does cost-benefit reasoning factor into the ALARP region between broadly acceptable and unacceptable risk?",
+    "back": "Within the ALARP region, a risk is tolerated only if further reducing it would require cost, time, or effort that is grossly disproportionate to the benefit gained, meaning some risk reduction is expected but not at any cost."
+  },
+  {
+    "id": 474,
+    "domain": "risk_management",
+    "front": "What is a risk register?",
+    "back": "A risk register is a structured document or database that records identified risks along with their assessment ratings, planned responses, owners, and current status, serving as the central tracking tool for risk management activities."
+  },
+  {
+    "id": 475,
+    "domain": "risk_management",
+    "front": "What information is typically included in a risk register entry?",
+    "back": "A typical risk register entry includes a risk description, its severity and occurrence or likelihood ratings, the assigned owner, the planned treatment or mitigation action, the target completion date, and the current status."
+  },
+  {
+    "id": 476,
+    "domain": "risk_management",
+    "front": "Why does each entry in a risk register need an assigned owner?",
+    "back": "Assigning an owner ensures a specific individual is accountable for monitoring, treating, and updating the status of that particular risk, preventing risks from being tracked without anyone responsible for acting on them."
+  },
+  {
+    "id": 477,
+    "domain": "risk_management",
+    "front": "Why is a risk register described as a living document?",
+    "back": "A risk register is described as a living document because it must be continuously updated as new risks are identified, existing risks change in severity or likelihood, and mitigation actions are completed or verified."
+  },
+  {
+    "id": 478,
+    "domain": "risk_management",
+    "front": "How does a risk register relate to a risk matrix?",
+    "back": "A risk register often records the severity and occurrence ratings used to plot each risk on a risk matrix, so the matrix visually summarizes the priority of the risks tracked in the register."
+  },
+  {
+    "id": 479,
+    "domain": "risk_management",
+    "front": "What is the purpose of auditing a risk management system?",
+    "back": "Auditing a risk management system verifies that risk identification, assessment, treatment, and monitoring activities are actually being performed as documented and are effective at reducing risk to acceptable levels."
+  },
+  {
+    "id": 480,
+    "domain": "risk_management",
+    "front": "What inputs are commonly reviewed when evaluating a risk management system?",
+    "back": "Common inputs reviewed include risk registers, completed FMEAs, complaint and nonconformance data, corrective action records, and evidence that risk controls were verified after implementation."
+  },
+  {
+    "id": 481,
+    "domain": "risk_management",
+    "front": "How does management review connect to risk management system evaluation?",
+    "back": "Management review provides a formal forum where risk management performance, including unresolved high-priority risks and trends, is presented to leadership so resources and decisions can be directed where they are most needed."
+  },
+  {
+    "id": 482,
+    "domain": "risk_management",
+    "front": "Why should a risk management audit be linked to the corrective action system?",
+    "back": "Linking the audit to the corrective action system ensures that any gaps found in how risks are identified, treated, or monitored are formally tracked to closure rather than simply noted and forgotten."
+  },
+  {
+    "id": 483,
+    "domain": "risk_management",
+    "front": "What does it mean to evaluate the effectiveness of a risk management system, as opposed to just its existence?",
+    "back": "Evaluating effectiveness means checking whether the risk controls that were implemented actually reduced real-world harm, such as a drop in complaints or field failures, rather than simply confirming that a risk management procedure exists on paper."
+  },
+  {
+    "id": 484,
+    "domain": "risk_management",
+    "front": "What is the avoid risk treatment strategy, with an example?",
+    "back": "Avoid means eliminating the risk entirely by not engaging in the activity or removing the hazardous feature. For example, a company redesigns a product to remove a toxic solvent from its manufacturing process instead of managing the exposure risk."
+  },
+  {
+    "id": 485,
+    "domain": "risk_management",
+    "front": "Give a second example of the avoid risk treatment strategy.",
+    "back": "A company decides not to enter a new overseas market because the regulatory and political instability risk is judged too high, completely eliminating that exposure rather than trying to manage it."
+  },
+  {
+    "id": 486,
+    "domain": "risk_management",
+    "front": "What is the mitigate risk treatment strategy, with an example?",
+    "back": "Mitigate means reducing either the likelihood or the severity of a risk through controls, without eliminating it entirely. For example, adding an interlock guard to a machine reduces the likelihood that an operator's hand will be injured."
+  },
+  {
+    "id": 487,
+    "domain": "risk_management",
+    "front": "Give a second example of the mitigate risk treatment strategy.",
+    "back": "A manufacturer adds an additional inspection step and a redundant sensor to a process, reducing the occurrence and improving the detection of a defect, thereby lowering the overall risk without removing the process itself."
+  },
+  {
+    "id": 488,
+    "domain": "risk_management",
+    "front": "What is the transfer risk treatment strategy, with an example?",
+    "back": "Transfer means shifting the financial or legal burden of a risk to another party, without necessarily reducing the risk itself. For example, a company purchases product liability insurance to cover potential claims from a rare product defect."
+  },
+  {
+    "id": 489,
+    "domain": "risk_management",
+    "front": "Give a second example of the transfer risk treatment strategy.",
+    "back": "A manufacturer outsources a hazardous plating process to a specialized supplier under contract, shifting responsibility for managing that specific process risk to the supplier."
+  },
+  {
+    "id": 490,
+    "domain": "risk_management",
+    "front": "What is the accept risk treatment strategy, with an example?",
+    "back": "Accept means acknowledging a risk and choosing to take no further action because it already falls within acceptable criteria or the cost of further treatment outweighs the benefit. For example, a company accepts a very low, well-understood risk of minor cosmetic scratching on a non-critical part."
+  },
+  {
+    "id": 491,
+    "domain": "risk_management",
+    "front": "Give a second example of the accept risk treatment strategy.",
+    "back": "After reducing a hazard's RPN through mitigation, a team determines the remaining residual risk falls in the broadly acceptable region and formally accepts it rather than pursuing further, disproportionately costly controls."
+  },
+  {
+    "id": 492,
+    "domain": "risk_management",
+    "front": "How does complaint tracking support risk monitoring?",
+    "back": "Complaint tracking captures real-world feedback about product problems after release, giving the organization direct evidence of whether actual field performance matches the risk assumptions made during design and manufacturing."
+  },
+  {
+    "id": 493,
+    "domain": "risk_management",
+    "front": "Why is trending important in ongoing risk monitoring?",
+    "back": "Trending analyzes complaint, nonconformance, and failure data over time to detect gradual increases in a specific issue before it becomes a major problem, allowing risk controls to be adjusted proactively."
+  },
+  {
+    "id": 494,
+    "domain": "risk_management",
+    "front": "What is post-market surveillance and how does it relate to risk management?",
+    "back": "Post-market surveillance is the systematic collection and review of information about a product's performance after it has been released, used to confirm that identified risks remain adequately controlled and to detect new risks not seen during development."
+  },
+  {
+    "id": 495,
+    "domain": "risk_management",
+    "front": "Why must risk monitoring data feed back into the risk management file?",
+    "back": "Feeding monitoring data back into the risk management file ensures that new information, such as an unexpected failure trend, triggers a re-evaluation of the original risk assessment rather than being tracked separately and ignored."
+  },
+  {
+    "id": 496,
+    "domain": "risk_management",
+    "front": "What is signal detection in the context of ongoing product risk monitoring?",
+    "back": "Signal detection is the process of identifying an early indication, or signal, from complaint, trend, or surveillance data that a previously unrecognized or underestimated risk may be emerging, prompting further investigation."
+  },
+  {
+    "id": 497,
+    "domain": "risk_management",
+    "front": "What should a risk mitigation action plan specify beyond the action itself?",
+    "back": "A risk mitigation action plan should specify the responsible owner, the target completion date, the resources required, and the method that will be used to verify the action actually reduced the risk as intended."
+  },
+  {
+    "id": 498,
+    "domain": "risk_management",
+    "front": "What is residual risk?",
+    "back": "Residual risk is the level of risk that remains after risk controls or mitigation actions have been implemented, and it must be evaluated against acceptability criteria to decide if further action is needed."
+  },
+  {
+    "id": 499,
+    "domain": "risk_management",
+    "front": "Why must the effectiveness of a risk mitigation action be verified after implementation?",
+    "back": "Verification confirms that the control actually performs as intended in practice, since a control that looks sound on paper can fail to reduce real-world occurrence or improve detection once deployed."
+  },
+  {
+    "id": 500,
+    "domain": "risk_management",
+    "front": "Why should risk mitigation plans be re-evaluated periodically rather than only once at implementation?",
+    "back": "Periodic re-evaluation ensures that a mitigation remains effective as processes, materials, or usage conditions change over time, since a control that was adequate at launch can become insufficient as new information or risks emerge."
+  }
+]
